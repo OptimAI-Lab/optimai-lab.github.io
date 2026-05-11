@@ -9,12 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "blog",
+  },{id: "nav-news",
+          title: "news",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blog/";
+            window.location.href = "/news/";
+          },
+        },{id: "nav-projects",
+          title: "projects",
+          description: "Our research spans several areas in optimization and machine learning.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
           },
         },{id: "nav-publications",
           title: "publications",
@@ -23,56 +30,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-gallery",
+          title: "gallery",
+          description: "Group photos and activities",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/gallery/";
           },
         },{id: "nav-people",
           title: "people",
-          description: "members of the lab or group",
+          description: "Members of the OptimAI Lab",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-a-post-with-plotly-js",
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -440,62 +412,86 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-news-10",
+          title: 'News_10',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+              window.location.href = "/news/news_10/";
+            },},{id: "news-news-09",
+          title: 'News_09',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",handler: () => {
+              window.location.href = "/news/news_09/";
+            },},{id: "news-news-08",
+          title: 'News_08',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/news_08/";
+            },},{id: "news-news-07",
+          title: 'News_07',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/news_07/";
+            },},{id: "news-news-06",
+          title: 'News_06',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/news_06/";
+            },},{id: "news-news-05",
+          title: 'News_05',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/news_05/";
+            },},{id: "news-news-04",
+          title: 'News_04',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/news_04/";
+            },},{id: "news-news-03",
+          title: 'News_03',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/news_03/";
+            },},{id: "news-news-02",
+          title: 'News_02',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/news_02/";
+            },},{id: "news-news-01",
+          title: 'News_01',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/news_01/";
+            },},{id: "projects-large-scale-optimization",
+          title: 'Large-Scale Optimization',
+          description: "Design and analysis of modern optimization algorithms for large-scale problems",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+              window.location.href = "/projects/1_optimization/";
+            },},{id: "projects-machine-learning",
+          title: 'Machine Learning',
+          description: "Optimization approaches for machine learning problems",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+              window.location.href = "/projects/2_machine_learning/";
+            },},{id: "projects-distributed-multi-agent-systems",
+          title: 'Distributed Multi-Agent Systems',
+          description: "Distributed in-network data processing and parallel optimization algorithms",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+              window.location.href = "/projects/3_multiagent/";
+            },},{id: "projects-next-generation-communication-networks",
+          title: 'Next Generation Communication Networks',
+          description: "Cross-layer optimization for 5G and beyond wireless networks",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+              window.location.href = "/projects/4_networks/";
+            },},{id: "projects-bilevel-and-min-max-optimization",
+          title: 'Bilevel and Min-Max Optimization',
+          description: "Theory and algorithms for bilevel and minimax optimization problems",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+              window.location.href = "/projects/5_bilevel/";
+            },},{id: "projects-federated-learning",
+          title: 'Federated Learning',
+          description: "Distributed and federated learning algorithms for heterogeneous data",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/6_federated/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
@@ -507,46 +503,32 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Socials',
-        handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("mailto:%6D%68%6F%6E%67@%75%6D%6E.%65%64%75", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=qRnP-p0AAAAJ", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://github.com/OptimAI-Lab", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/OptimAI_LAB", "_blank");
         },
       },{
       id: 'light-theme',
