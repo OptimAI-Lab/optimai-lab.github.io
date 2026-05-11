@@ -2,27 +2,174 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the lab or group
+description: Members of the OptimAI Lab
 nav: true
-nav_order: 7
+nav_order: 6
 
 profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    image: Mingyi_Hong.png
+    content: pi_mingyi.md
+    image_circular: false
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Associate Professor</p>
+      <p>Electrical and Computer Engineering</p>
+      <p>University of Minnesota</p>
+      <p><a href="https://scholar.google.com/citations?user=qRnP-p0AAAAJ&hl=en">Google Scholar</a></p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    image: Jiaxiang.png
+    content: member_jiaxiang.md
+    image_circular: false
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Postdoctoral Fellow</p>
+      <p><a href="https://jasonjiaxiangli.github.io/">Personal Website</a></p>
+  - align: left
+    image: Ioannis Tsaknakis.jpg
+    content: member_ioannis.md
+    image_circular: false
+    more_info: >
+      <p>Postdoctoral Fellow</p>
+  - align: left
+    image: Hadi.jpeg
+    content: member_hadi.md
+    image_circular: false
+    more_info: >
+      <p>Postdoctoral Fellow</p>
+      <p><a href="https://www.linkedin.com/in/hadi-reisizadeh-8727429b/">LinkedIn</a></p>
 ---
+
+## Current Ph.D. Students
+
+<div class="row row-cols-2 row-cols-md-3" style="margin-top: 20px;">
+<div class="col mb-4">
+<div class="card">
+<img src="{{ '/assets/img/Quan.jpeg' | relative_url }}" class="card-img-top" alt="Quan Wei" style="height: 220px; object-fit: cover; object-position: top;">
+<div class="card-body">
+<h5 class="card-title">Quan Wei</h5>
+<p class="card-text">LLM Quantization, Agent</p>
+</div>
+</div>
+</div>
+<div class="col mb-4">
+<div class="card">
+<img src="{{ '/assets/img/Xinnan.jpg' | relative_url }}" class="card-img-top" alt="Xinnan Zhang" style="height: 220px; object-fit: cover; object-position: top;">
+<div class="card-body">
+<h5 class="card-title">Xinnan Zhang</h5>
+<p class="card-text">LLM Alignment, Reinforcement Learning</p>
+</div>
+</div>
+</div>
+<div class="col mb-4">
+<div class="card">
+<img src="{{ '/assets/img/jon.jpeg' | relative_url }}" class="card-img-top" alt="Jon Peng" style="height: 220px; object-fit: cover; object-position: top;">
+<div class="card-body">
+<h5 class="card-title">Jon Peng</h5>
+<p class="card-text">Diffusion models</p>
+</div>
+</div>
+</div>
+<div class="col mb-4">
+<div class="card">
+<img src="{{ '/assets/img/Xiaotian.png' | relative_url }}" class="card-img-top" alt="Xiaotian Jiang" style="height: 220px; object-fit: cover; object-position: top;">
+<div class="card-body">
+<h5 class="card-title">Xiaotian Jiang</h5>
+<p class="card-text">Bilevel Optimization</p>
+</div>
+</div>
+</div>
+<div class="col mb-4">
+<div class="card">
+<img src="{{ '/assets/img/Bingqing.jpg' | relative_url }}" class="card-img-top" alt="Bingqing Song" style="height: 220px; object-fit: cover; object-position: top;">
+<div class="card-body">
+<h5 class="card-title">Bingqing Song</h5>
+<p class="card-text">Statistical Learning, ML for Communication</p>
+</div>
+</div>
+</div>
+<div class="col mb-4">
+<div class="card">
+<img src="{{ '/assets/img/Siliang.jpeg' | relative_url }}" class="card-img-top" alt="Siliang Zeng" style="height: 220px; object-fit: cover; object-position: top;">
+<div class="card-body">
+<h5 class="card-title"><a href="https://scholar.google.com/citations?user=IfqsDyYAAAAJ&hl=en">Siliang Zeng</a></h5>
+<p class="card-text">Reinforcement Learning, LLMs, Alignment</p>
+</div>
+</div>
+</div>
+</div>
+
+## Alumni
+
+<div class="row row-cols-2 row-cols-md-3" style="margin-top: 20px;">
+<div class="col mb-4">
+<div class="card">
+<img src="{{ '/assets/img/Xinwei.jpg' | relative_url }}" class="card-img-top" alt="Xinwei Zhang" style="height: 220px; object-fit: cover; object-position: top;">
+<div class="card-body">
+<h5 class="card-title"><a href="https://scholar.google.com/citations?user=uq46meMAAAAJ&hl=zh-CN">Xinwei Zhang</a></h5>
+<p class="card-text">Postdoctoral Fellow at USC</p>
+</div>
+</div>
+</div>
+<div class="col mb-4">
+<div class="card">
+<img src="{{ '/assets/img/haoran.jpg' | relative_url }}" class="card-img-top" alt="Haoran Sun" style="height: 220px; object-fit: cover; object-position: top;">
+<div class="card-body">
+<h5 class="card-title"><a href="https://haoran-s.github.io">Haoran Sun</a></h5>
+<p class="card-text">Meta</p>
+</div>
+</div>
+</div>
+<div class="col mb-4">
+<div class="card">
+<img src="{{ '/assets/img/prashant.jpeg' | relative_url }}" class="card-img-top" alt="Prashant Kanduri" style="height: 220px; object-fit: cover; object-position: top;">
+<div class="card-body">
+<h5 class="card-title"><a href="https://sites.google.com/view/khanduri-prashant/home">Prashant Kanduri</a></h5>
+<p class="card-text">Assistant Professor at Wayne State University</p>
+</div>
+</div>
+</div>
+<div class="col mb-4">
+<div class="card">
+<img src="{{ '/assets/img/xiangyi.jpg' | relative_url }}" class="card-img-top" alt="Xiangyi Chen" style="height: 220px; object-fit: cover; object-position: top;">
+<div class="card-body">
+<h5 class="card-title"><a href="https://scholar.google.com/citations?user=M0ki5ZgAAAAJ&hl=en">Xiangyi Chen</a></h5>
+<p class="card-text">Pinterest</p>
+</div>
+</div>
+</div>
+<div class="col mb-4">
+<div class="card">
+<img src="{{ '/assets/img/songtao.jpeg' | relative_url }}" class="card-img-top" alt="Songtao Lu" style="height: 220px; object-fit: cover; object-position: top;">
+<div class="card-body">
+<h5 class="card-title"><a href="https://songtaogithub.github.io/">Dr. Songtao Lu</a></h5>
+<p class="card-text">Assistant Professor at CUHK</p>
+</div>
+</div>
+</div>
+<div class="col mb-4">
+<div class="card">
+<img src="{{ '/assets/img/Qingjiang_Shi.png' | relative_url }}" class="card-img-top" alt="Qingjiang Shi" style="height: 220px; object-fit: cover; object-position: top;">
+<div class="card-body">
+<h5 class="card-title"><a href="http://sse.tongji.edu.cn/Data/View/3555">Qingjiang Shi</a></h5>
+<p class="card-text">Professor at Tongji University</p>
+</div>
+</div>
+</div>
+<div class="col mb-4">
+<div class="card">
+<img src="{{ '/assets/img/davood.jpg' | relative_url }}" class="card-img-top" alt="Davood Hajinezhad" style="height: 220px; object-fit: cover; object-position: top;">
+<div class="card-body">
+<h5 class="card-title"><a href="https://sites.duke.edu/dhaji/">Davood Hajinezhad</a></h5>
+<p class="card-text">Research Scientist at Fidelity</p>
+</div>
+</div>
+</div>
+<div class="col mb-4">
+<div class="card">
+<img src="{{ '/assets/img/ziping.jpg' | relative_url }}" class="card-img-top" alt="Ziping Zhao" style="height: 220px; object-fit: cover; object-position: top;">
+<div class="card-body">
+<h5 class="card-title"><a href="http://sist.shanghaitech.edu.cn/sist_en/2018/0820/c3846a48601/page.htm">Ziping Zhao</a></h5>
+<p class="card-text">Assistant Professor at Shanghai Tech</p>
+</div>
+</div>
+</div>
+</div>
