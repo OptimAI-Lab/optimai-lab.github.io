@@ -16,29 +16,45 @@ profiles:
       <p>Electrical and Computer Engineering</p>
       <p>University of Minnesota</p>
       <p><a href="https://scholar.google.com/citations?user=qRnP-p0AAAAJ&hl=en">Google Scholar</a></p>
-  - align: left
-    image: Jiaxiang.png
-    content: member_jiaxiang.md
-    image_circular: false
-    more_info: >
-      <p>Postdoctoral Fellow</p>
-      <p><a href="https://jasonjiaxiangli.github.io/">Personal Website</a></p>
-  - align: left
-    image: Ioannis Tsaknakis.jpg
-    content: member_ioannis.md
-    image_circular: false
-    more_info: >
-      <p>Postdoctoral Fellow</p>
-  - align: left
-    image: Hadi.jpeg
-    content: member_hadi.md
-    image_circular: false
-    more_info: >
-      <p>Postdoctoral Fellow</p>
-      <p><a href="https://www.linkedin.com/in/hadi-reisizadeh-8727429b/">LinkedIn</a></p>
 ---
 
+## Postdoctoral Fellows
+
+<hr style="border-top: 3px solid #dee2e6; margin: 20px 0;">
+
+<div class="row row-cols-2 row-cols-md-3" style="margin-top: 20px;">
+<div class="col mb-4">
+<div class="card">
+<img src="{{ '/assets/img/Jiaxiang.png' | relative_url }}" class="card-img-top" alt="Jiaxiang Li" style="height: 220px; object-fit: cover; object-position: top;">
+<div class="card-body">
+<h5 class="card-title"><a href="https://jasonjiaxiangli.github.io/">Jiaxiang Li</a></h5>
+<p class="card-text">Postdoctoral Fellow</p>
+</div>
+</div>
+</div>
+<div class="col mb-4">
+<div class="card">
+<img src="{{ '/assets/img/Ioannis Tsaknakis.jpg' | relative_url }}" class="card-img-top" alt="Ioannis Tsaknakis" style="height: 220px; object-fit: cover; object-position: top;">
+<div class="card-body">
+<h5 class="card-title">Ioannis Tsaknakis</h5>
+<p class="card-text">Postdoctoral Fellow</p>
+</div>
+</div>
+</div>
+<div class="col mb-4">
+<div class="card">
+<img src="{{ '/assets/img/Hadi.jpeg' | relative_url }}" class="card-img-top" alt="Hadi Reisizadeh" style="height: 220px; object-fit: cover; object-position: top;">
+<div class="card-body">
+<h5 class="card-title"><a href="https://www.linkedin.com/in/hadi-reisizadeh-8727429b/">Hadi Reisizadeh</a></h5>
+<p class="card-text">Postdoctoral Fellow</p>
+</div>
+</div>
+</div>
+</div>
+
 ## Current Ph.D. Students
+
+<hr style="border-top: 3px solid #dee2e6; margin: 20px 0;">
 
 <div class="row row-cols-2 row-cols-md-3" style="margin-top: 20px;">
 <div class="col mb-4">
@@ -107,6 +123,8 @@ profiles:
 </div>
 
 ## Alumni
+
+<hr style="border-top: 3px solid #dee2e6; margin: 20px 0;">
 
 <div class="row row-cols-2 row-cols-md-3" style="margin-top: 20px;">
 <div class="col mb-4">
