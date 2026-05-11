@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://optimai-lab.github.io/optimai-lab/sitemap.xml
+Sitemap: https://optimai-lab.github.io/sitemap.xml
