@@ -95,6 +95,15 @@ profiles:
 </div>
 </div>
 </div>
+<div class="col mb-4">
+<div class="card">
+<div class="card-body">
+<h5 class="card-title">Athanasios Glentis</h5>
+<p class="card-text">Parameter Efficient Training Algorithms</p>
+<p class="card-text small text-muted">Email: glent007@umn.edu</p>
+</div>
+</div>
+</div>
 </div>
 
 ## Alumni
@@ -169,6 +178,42 @@ profiles:
 <div class="card-body">
 <h5 class="card-title"><a href="http://sist.shanghaitech.edu.cn/sist_en/2018/0820/c3846a48601/page.htm">Ziping Zhao</a></h5>
 <p class="card-text">Assistant Professor at Shanghai Tech</p>
+</div>
+</div>
+</div>
+<div class="col mb-4">
+<div class="card">
+<img src="{{ '/assets/img/yijian.jpg' | relative_url }}" class="card-img-top" alt="Yijian Zhang" style="height: 220px; object-fit: cover; object-position: top;">
+<div class="card-body">
+<h5 class="card-title">Yijian Zhang</h5>
+<p class="card-text">Data Scientist at Gap Corp.</p>
+</div>
+</div>
+</div>
+<div class="col mb-4">
+<div class="card">
+<img src="{{ '/assets/img/Mostafa.jpg' | relative_url }}" class="card-img-top" alt="Mostafa Amin-Naseri" style="height: 220px; object-fit: cover; object-position: top;">
+<div class="card-body">
+<h5 class="card-title">Mostafa Amin-Naseri</h5>
+<p class="card-text">Joint supervised with Stephen Gilbert</p>
+</div>
+</div>
+</div>
+<div class="col mb-4">
+<div class="card">
+<img src="{{ '/assets/img/Fristo.jpg' | relative_url }}" class="card-img-top" alt="Andre Fristo" style="height: 220px; object-fit: cover; object-position: top;">
+<div class="card-body">
+<h5 class="card-title">Andre Fristo</h5>
+<p class="card-text">Former Researcher</p>
+</div>
+</div>
+</div>
+<div class="col mb-4">
+<div class="card">
+<img src="{{ '/assets/img/Grimm.png' | relative_url }}" class="card-img-top" alt="Chase Grimm" style="height: 220px; object-fit: cover; object-position: top;">
+<div class="card-body">
+<h5 class="card-title">Chase Grimm</h5>
+<p class="card-text">Former Researcher</p>
 </div>
 </div>
 </div>
