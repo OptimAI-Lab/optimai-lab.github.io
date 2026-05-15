@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-13'
+  last_updated: '2026-05-15'
 papers:
   qRnP-p0AAAAJ:-7ulzOJl1JYC:
     citations: 8
@@ -50,7 +50,7 @@ papers:
     title: A Lazy Hessian Evaluation Framework for Accelerating Stochastic Bilevel Optimization
     year: Unknown Year
   qRnP-p0AAAAJ:1Ye0OR6EYb4C:
-    citations: 14
+    citations: 15
     title: On the Vulnerability of Applying Retrieval-Augmented Generation within Knowledge-Intensive Application Domains
     year: '2024'
   qRnP-p0AAAAJ:1lhNe0rCu4AC:
@@ -66,7 +66,7 @@ papers:
     title: Energy efficiency optimization for MISO SWIPT systems with zero-forcing beamforming
     year: '2015'
   qRnP-p0AAAAJ:1taIhTC69MYC:
-    citations: 13
+    citations: 14
     title: A bayesian approach to robust inverse reinforcement learning
     year: '2023'
   qRnP-p0AAAAJ:1yQoGdGgb4wC:
@@ -110,7 +110,7 @@ papers:
     title: Software defined resource allocation for service-oriented networks
     year: '2018'
   qRnP-p0AAAAJ:3NQIlFlcGxIC:
-    citations: 3
+    citations: 4
     title: 'EMC : Efficient MCMC Negative Sampling for Contrastive Learning with Global Convergence'
     year: '2024'
   qRnP-p0AAAAJ:3bvyWxjaHKcC:
@@ -130,7 +130,7 @@ papers:
     title: 'Linearly constrained bilevel optimization: A smoothed implicit gradient approach'
     year: '2023'
   qRnP-p0AAAAJ:4MWp96NkSFoC:
-    citations: 28
+    citations: 29
     title: "A linearly convergent doubly stochastic Gauss\u2013Seidel algorithm for solving linear equations and a certain class of over-parameterized optimization problems"
     year: '2019'
   qRnP-p0AAAAJ:4OULZ7Gr8RgC:
@@ -146,7 +146,7 @@ papers:
     title: Unrolled Physics-Based Deep Learning MRI Reconstruction with Dense Connections using Nesterov Acceleration
     year: '2020'
   qRnP-p0AAAAJ:4vMrXwiscB8C:
-    citations: 213
+    citations: 214
     title: A near-optimal algorithm for stochastic bilevel optimization via double-momentum
     year: '2021'
   qRnP-p0AAAAJ:4xDN1ZYqzskC:
@@ -166,7 +166,7 @@ papers:
     title: A distributed algorithm for dictionary learning over networks
     year: '2016'
   qRnP-p0AAAAJ:5bg8sr1QxYwC:
-    citations: 19
+    citations: 20
     title: An outlook on the opportunities and challenges of multi-agent ai systems
     year: '2025'
   qRnP-p0AAAAJ:5icHVeHT4IsC:
@@ -178,7 +178,7 @@ papers:
     title: On the divergence of decentralized nonconvex optimization
     year: '2022'
   qRnP-p0AAAAJ:5ugPr518TE4C:
-    citations: 79
+    citations: 80
     title: Joint source-relay design for full-duplex MIMO AF relay systems
     year: '2016'
   qRnP-p0AAAAJ:65Yg0jNCQDAC:
@@ -186,7 +186,7 @@ papers:
     title: NONCONVEX OPTIMIZATION FOR SIGNAL PROCESSING AND MACHINE LEARNING
     year: '2020'
   qRnP-p0AAAAJ:69ZgNCALVd0C:
-    citations: 17
+    citations: 19
     title: Muon outperforms Adam in tail-end associative memory learning
     year: '2025'
   qRnP-p0AAAAJ:6ZxmRoH8BuwC:
@@ -198,7 +198,7 @@ papers:
     title: 'Doppler: Differentially private optimizers with low-pass filter for privacy noise reduction'
     year: '2024'
   qRnP-p0AAAAJ:6bLC7aUMtPcC:
-    citations: 52
+    citations: 53
     title: 'Getting more juice out of the sft data: Reward learning from human demonstration improves sft for llm alignment'
     year: '2024'
   qRnP-p0AAAAJ:6yz0xqPARnAC:
@@ -246,7 +246,7 @@ papers:
     title: Nonconvex alternating direction method of multipliers for distributed sparse principal component analysis
     year: '2015'
   qRnP-p0AAAAJ:8Xgff_V0N9gC:
-    citations: 5
+    citations: 6
     title: 'Hiper: Hierarchical reinforcement learning with explicit credit assignment for large language model agents'
     year: '2026'
   qRnP-p0AAAAJ:8k81kl-MbHgC:
@@ -266,11 +266,11 @@ papers:
     title: Joint transceiver design for full-duplex K-pair MIMO interference channel with energy harvesting
     year: '2016'
   qRnP-p0AAAAJ:9yKSN-GCB0IC:
-    citations: 123
+    citations: 124
     title: "Linear transceiver design for a MIMO interfering broadcast channel achieving max\u2013min fairness"
     year: '2013'
   qRnP-p0AAAAJ:ALROH1vI_8AC:
-    citations: 447
+    citations: 448
     title: 'A two-timescale stochastic algorithm framework for bilevel optimization: Complexity analysis and application to actor-critic'
     year: '2023'
   qRnP-p0AAAAJ:AXPGKjj_ei8C:
@@ -286,7 +286,7 @@ papers:
     title: 'Vcc: Scaling transformers to 128k tokens or more by prioritizing important tokens'
     year: '2023'
   qRnP-p0AAAAJ:An6A6Jpfc1oC:
-    citations: 9
+    citations: 11
     title: 'Blur: A bi-level optimization approach for llm unlearning'
     year: '2026'
   qRnP-p0AAAAJ:B3FOqHPlNUQC:
@@ -294,7 +294,7 @@ papers:
     title: 'SINR constrained beamforming for a MIMO multi-user downlink system: Algorithms and convergence analysis'
     year: '2016'
   qRnP-p0AAAAJ:BJbdYPG6LGMC:
-    citations: 63
+    citations: 65
     title: Maximum-likelihood inverse reinforcement learning with finite-time guarantees
     year: '2022'
   qRnP-p0AAAAJ:BUYA1_V_uYcC:
@@ -306,7 +306,7 @@ papers:
     title: Pre-training differentially private models with limited public data
     year: '2024'
   qRnP-p0AAAAJ:BrOSOlqYqPUC:
-    citations: 6
+    citations: 7
     title: 'Scalable parameter and memory efficient pretraining for llm: Recent algorithmic advances and benchmarking'
     year: '2025'
   qRnP-p0AAAAJ:BwyfMAYsbu0C:
@@ -314,7 +314,7 @@ papers:
     title: 'PA-GD: On the convergence of perturbed alternating gradient descent to second-order stationary points for structured nonconvex optimization'
     year: '2019'
   qRnP-p0AAAAJ:BzfGm06jWhQC:
-    citations: 12
+    citations: 13
     title: 'Glasu: A communication-efficient algorithm for federated learning with vertically distributed graph data'
     year: '2023'
   qRnP-p0AAAAJ:CYCckWUYoCcC:
@@ -398,7 +398,7 @@ papers:
     title: 'RoSTE: An Efficient Quantization-Aware Supervised Fine-Tuning Approach for Large Language Models'
     year: '2025'
   qRnP-p0AAAAJ:FiytvqdAVhgC:
-    citations: 121
+    citations: 123
     title: 'An introduction to bilevel optimization: Foundations and applications in signal processing and machine learning'
     year: '2024'
   qRnP-p0AAAAJ:GFxP56DSvIMC:
@@ -434,11 +434,11 @@ papers:
     title: A gentle introduction to ADMM for statistical problems
     year: '2014'
   qRnP-p0AAAAJ:HhcuHIWmDEUC:
-    citations: 96
+    citations: 97
     title: Do LLMs Recognize Your Preferences? Evaluating Personalized Preference Following in LLMs
     year: '2025'
   qRnP-p0AAAAJ:HtS1dXgVpQUC:
-    citations: 167
+    citations: 166
     title: On lower iteration complexity bounds for the convex concave saddle point problems
     year: '2022'
   qRnP-p0AAAAJ:ILKRHgRFtOwC:
@@ -478,7 +478,7 @@ papers:
     title: 'Joint downlink base station association and power control for max-min fairness: Computation and complexity'
     year: '2015'
   qRnP-p0AAAAJ:KNjnJ3z-R6IC:
-    citations: 55
+    citations: 57
     title: 'Towards LLM Unlearning Resilient to Relearning Attacks: A Sharpness-Aware Minimization Perspective and Beyond'
     year: '2025'
   qRnP-p0AAAAJ:KUbvn5osdkgC:
@@ -502,7 +502,7 @@ papers:
     title: Learning Partially Observable Markov Decision Processes Using Coupled Canonical Polyadic Decomposition
     year: '2019'
   qRnP-p0AAAAJ:L8Ckcad2t8MC:
-    citations: 286
+    citations: 287
     title: Transmit solutions for MIMO wiretap channels using alternating optimization
     year: '2013'
   qRnP-p0AAAAJ:LI9QrySNdTsC:
@@ -534,11 +534,11 @@ papers:
     title: 'Decomposing linearly constrained nonconvex problems by a proximal primal dual approach: Algorithms, convergence, and applications'
     year: '2016'
   qRnP-p0AAAAJ:MLfJN-KU85MC:
-    citations: 101
+    citations: 102
     title: 'Improving the sample and communication complexity for decentralized non-convex optimization: Joint gradient estimation and tracking'
     year: '2020'
   qRnP-p0AAAAJ:MXK_kJrjxJIC:
-    citations: 1553
+    citations: 1556
     title: A unified convergence analysis of block successive minimization methods for nonsmooth optimization
     year: '2013'
   qRnP-p0AAAAJ:MhiOAD_qIWkC:
@@ -638,11 +638,11 @@ papers:
     title: A correspondence-driven approach for bilevel decision-making with nonconvex lower-level problems
     year: '2025'
   qRnP-p0AAAAJ:QYdC8u9Cj1oC:
-    citations: 112
+    citations: 113
     title: 'Deep spectrum cartography: Completing radio map tensors using learned neural models'
     year: '2022'
   qRnP-p0AAAAJ:QsaTk4IG4EwC:
-    citations: 2
+    citations: 3
     title: Can Agentic AI Match the Performance of Human Data Scientists?
     year: '2025'
   qRnP-p0AAAAJ:QyXJ3EUuO1IC:
@@ -678,7 +678,7 @@ papers:
     title: 'Decomposition by successive convex approximation: A unifying approach for linear transceiver design in heterogeneous networks'
     year: '2015'
   qRnP-p0AAAAJ:SjuI4pbJlxcC:
-    citations: 62
+    citations: 64
     title: 'SLTrain: a sparse plus low-rank approach for parameter and memory efficient pretraining'
     year: '2024'
   qRnP-p0AAAAJ:SnGPuo6Feq8C:
@@ -758,7 +758,7 @@ papers:
     title: Transformer based approach for wireless resource allocation problems involving mixed discrete and continuous variables
     year: '2023'
   qRnP-p0AAAAJ:WC9gN4BGCRcC:
-    citations: 23
+    citations: 25
     title: Tuning-free alignment of diffusion models with direct noise optimization
     year: '2024'
   qRnP-p0AAAAJ:WHdLCjDvYFkC:
@@ -782,7 +782,7 @@ papers:
     title: 'Scaling Unverifiable Rewards: A Case Study on Visual Insights'
     year: '2025'
   qRnP-p0AAAAJ:Xz60mAmATU4C:
-    citations: 0
+    citations: 1
     title: Powering Up Zeroth-Order Training via Subspace Gradient Orthogonalization
     year: '2026'
   qRnP-p0AAAAJ:Y0pCki6q_DkC:
@@ -842,7 +842,7 @@ papers:
     title: Spectral efficiency optimization for millimeter wave multiuser MIMO systems
     year: '2018'
   qRnP-p0AAAAJ:_axFR9aDTf0C:
-    citations: 327
+    citations: 328
     title: 'Understanding gradient clipping in private sgd: A geometric perspective'
     year: '2020'
   qRnP-p0AAAAJ:_xSYboBqXhAC:
@@ -890,7 +890,7 @@ papers:
     title: 'A BLOCK COORDINATE DESCENT METHOD OF MULTIPLIERS: CONVERGENCE ANALYSIS AND APPLICATIONS'
     year: '2014'
   qRnP-p0AAAAJ:bnK-pcrLprsC:
-    citations: 1363
+    citations: 1362
     title: 'Towards k-means-friendly spaces: Simultaneous deep learning and clustering'
     year: '2017'
   qRnP-p0AAAAJ:buQ7SEKw-1sC:
@@ -958,7 +958,7 @@ papers:
     title: On faster convergence of cyclic block coordinate descent-type methods for strongly convex minimization
     year: '2018'
   qRnP-p0AAAAJ:evX43VCCuoAC:
-    citations: 242
+    citations: 243
     title: Multi-agent reinforcement learning via double averaging primal-dual optimization
     year: '2018'
   qRnP-p0AAAAJ:f2IySw72cVMC:
@@ -997,8 +997,12 @@ papers:
     citations: 30
     title: An implicit gradient-type method for linearly constrained bilevel problems
     year: '2022'
+  qRnP-p0AAAAJ:ghEM2AJqZyQC:
+    citations: 0
+    title: 'CUDAHercules: Benchmarking Hardware-Aware Expert-level CUDA Optimization for LLMs'
+    year: '2026'
   qRnP-p0AAAAJ:gsN89kCJA0AC:
-    citations: 437
+    citations: 439
     title: A deep learning method for online capacity estimation of lithium-ion batteries
     year: '2019'
   qRnP-p0AAAAJ:hC7cP41nSMkC:
@@ -1022,7 +1026,7 @@ papers:
     title: Joint access point selection and power allocation for uplink wireless networks
     year: '2013'
   qRnP-p0AAAAJ:hsZV8lGYWTMC:
-    citations: 15
+    citations: 16
     title: 'Raw: A robust and agile plug-and-play watermark framework for ai-generated images with provable guarantees'
     year: '2024'
   qRnP-p0AAAAJ:isC4tDSrTZIC:
@@ -1058,7 +1062,7 @@ papers:
     title: 'Minimax problems with coupled linear constraints: Computational complexity and duality'
     year: '2023'
   qRnP-p0AAAAJ:kz9GbA2Ns4gC:
-    citations: 118
+    citations: 119
     title: Spectrum cartography via coupled block-term tensor decomposition
     year: '2020'
   qRnP-p0AAAAJ:kzcSZmkxUKAC:
@@ -1134,7 +1138,7 @@ papers:
     title: 'Reinforcement Learning in Inference Time: A Perspective from Successive Policy Iterations'
     year: '2025'
   qRnP-p0AAAAJ:olpn-zPbct0C:
-    citations: 1375
+    citations: 1378
     title: 'Learning to optimize: Training deep neural networks for interference management'
     year: '2018'
   qRnP-p0AAAAJ:otzGkya1bYkC:
@@ -1150,7 +1154,7 @@ papers:
     title: 'From demonstrations to rewards: Alignment without explicit human preferences'
     year: '2025'
   qRnP-p0AAAAJ:pS0ncopqnHgC:
-    citations: 29
+    citations: 31
     title: A note on the convergence of muon
     year: '2025'
   qRnP-p0AAAAJ:p__nRnzSRKYC:
@@ -1162,7 +1166,7 @@ papers:
     title: Power-efficient operation of wireless heterogeneous networks using smart grids
     year: '2014'
   qRnP-p0AAAAJ:prdVHNxh-e8C:
-    citations: 164
+    citations: 166
     title: 'Revisiting zeroth-order optimization for memory-efficient llm fine-tuning: A benchmark'
     year: '2024'
   qRnP-p0AAAAJ:pyW8ca7W8N0C:
@@ -1170,7 +1174,7 @@ papers:
     title: 'Combining sparse NMF with deep neural network: A new classification-based approach for speech enhancement'
     year: '2015'
   qRnP-p0AAAAJ:q-HalDI95KYC:
-    citations: 186
+    citations: 188
     title: A survey of recent advances in optimization methods for wireless communications
     year: '2024'
   qRnP-p0AAAAJ:q3oQSFYPqjQC:
@@ -1214,7 +1218,7 @@ papers:
     title: 'Multi-user adaptive video delivery over wireless networks: A physical layer resource-aware deep reinforcement learning approach'
     year: '2020'
   qRnP-p0AAAAJ:sA9dB-pw3HoC:
-    citations: 57
+    citations: 59
     title: Reinforcing multi-turn reasoning in llm agents via turn-level reward design
     year: '2025'
   qRnP-p0AAAAJ:sNmaIFBj_lkC:
@@ -1270,11 +1274,11 @@ papers:
     title: A stochastic linearized augmented lagrangian method for decentralized bilevel optimization
     year: '2022'
   qRnP-p0AAAAJ:uJ-U7cs_P_0C:
-    citations: 474
+    citations: 475
     title: On the convergence of a class of adam-type algorithms for non-convex optimization
     year: '2018'
   qRnP-p0AAAAJ:uLbwQdceFCQC:
-    citations: 396
+    citations: 399
     title: Penalty dual decomposition method for nonsmooth nonconvex optimization
     year: '2020'
   qRnP-p0AAAAJ:uVUOdF_882EC:
@@ -1294,7 +1298,7 @@ papers:
     title: SoftwareDefinedResourceAllocationforService-OrientedNetworks
     year: Unknown Year
   qRnP-p0AAAAJ:v6i8RKmR8ToC:
-    citations: 2
+    citations: 3
     title: 'StitchCUDA: An Automated Multi-Agents End-to-End GPU Programing Framework with Rubric-based Agentic Reinforcement Learning'
     year: '2026'
   qRnP-p0AAAAJ:vV6vV6tmYwMC:
@@ -1302,7 +1306,7 @@ papers:
     title: Max-min network flow and resource allocation for backhaul constrained heterogeneous wireless networks
     year: '2014'
   qRnP-p0AAAAJ:vbGhcppDl1QC:
-    citations: 617
+    citations: 619
     title: 'Topology attack and defense for graph neural networks: An optimization perspective'
     year: '2019'
   qRnP-p0AAAAJ:w1MjKQ0l0TYC:
@@ -1310,7 +1314,7 @@ papers:
     title: 'MUNCH: A Multitask Unlearning Benchmark for LLMs'
     year: Unknown Year
   qRnP-p0AAAAJ:wKETBy42zhYC:
-    citations: 40
+    citations: 42
     title: 'When demonstrations meet generative world models: A maximum likelihood framework for offline inverse reinforcement learning'
     year: '2023'
   qRnP-p0AAAAJ:wMgC3FpKEyYC:
@@ -1326,7 +1330,7 @@ papers:
     title: 'Muonbp: Faster muon via block-periodic orthogonalization'
     year: '2025'
   qRnP-p0AAAAJ:xtRiw3GOFMkC:
-    citations: 65
+    citations: 66
     title: Quantized consensus ADMM for multi-agent distributed optimization
     year: '2016'
   qRnP-p0AAAAJ:yB1At4FlUx8C:
