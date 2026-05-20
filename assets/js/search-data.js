@@ -405,11 +405,61 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "news-2013-02-hetnet-paper",
+          title: '2013 02 Hetnet Paper',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2013-02-hetnet-paper/";
+            },},{id: "news-2013-02-uplink-paper",
+          title: '2013 02 Uplink Paper',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2013-02-uplink-paper/";
+            },},{id: "news-2013-03-bsum-paper",
+          title: '2013 03 Bsum Paper',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2013-03-bsum-paper/";
+            },},{id: "news-2013-04-wiretap-paper",
+          title: '2013 04 Wiretap Paper',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2013-04-wiretap-paper/";
+            },},{id: "news-2013-05-jsac-paper",
+          title: '2013 05 Jsac Paper',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2013-05-jsac-paper/";
             },},{id: "news-2014-01-promotion",
           title: '2014 01 Promotion',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2014-01-promotion/";
+            },},{id: "news-2014-03-interference-pricing",
+          title: '2014 03 Interference Pricing',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2014-03-interference-pricing/";
+            },},{id: "news-2014-04-siopt-paper",
+          title: '2014 04 Siopt Paper',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2014-04-siopt-paper/";
+            },},{id: "news-2014-04-bs-activation",
+          title: '2014 04 Bs Activation',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2014-04-bs-activation/";
+            },},{id: "news-2014-05-sdran-paper",
+          title: '2014 05 Sdran Paper',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2014-05-sdran-paper/";
+            },},{id: "news-2014-05-wiretap-twireless",
+          title: '2014 05 Wiretap Twireless',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2014-05-wiretap-twireless/";
             },},{id: "news-2014-05-bs-power",
           title: '2014 05 Bs Power',
           description: "",
@@ -430,11 +480,26 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2014-09-parallel/";
+            },},{id: "news-2014-09-faculty-fellowship",
+          title: '2014 09 Faculty Fellowship',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2014-09-faculty-fellowship/";
             },},{id: "news-2014-09-fellowship",
           title: '2014 09 Fellowship',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2014-09-fellowship/";
+            },},{id: "news-2015-02-jsac-hetnet",
+          title: '2015 02 Jsac Hetnet',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2015-02-jsac-hetnet/";
+            },},{id: "news-2015-03-tac-paper",
+          title: '2015 03 Tac Paper',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2015-03-tac-paper/";
             },},{id: "news-2015-08-nsf-ccf",
           title: '2015 08 Nsf Ccf',
           description: "",
@@ -450,6 +515,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2015-09-haoran/";
+            },},{id: "news-2015-11-coap-paper",
+          title: '2015 11 Coap Paper',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2015-11-coap-paper/";
+            },},{id: "news-2015-11-nonconvex-admm",
+          title: '2015 11 Nonconvex Admm',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2015-11-nonconvex-admm/";
             },},{id: "news-2015-11-admm-nonconvex",
           title: '2015 11 Admm Nonconvex',
           description: "",
@@ -485,31 +560,91 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2016-08-nestt/";
+            },},{id: "news-2016-11-mimo-paper",
+          title: '2016 11 Mimo Paper',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2016-11-mimo-paper/";
             },},{id: "news-2016-11-admm",
           title: '2016 11 Admm',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2016-11-admm/";
+            },},{id: "news-2016-11-tcns-paper",
+          title: '2016 11 Tcns Paper',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2016-11-tcns-paper/";
+            },},{id: "news-2017-01-qingjiang-ae",
+          title: '2017 01 Qingjiang Ae',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2017-01-qingjiang-ae/";
+            },},{id: "news-2017-01-stochastic-paper",
+          title: '2017 01 Stochastic Paper',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2017-01-stochastic-paper/";
             },},{id: "news-2017-01-spcom",
           title: '2017 01 Spcom',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2017-01-spcom/";
+            },},{id: "news-2017-01-davood-award",
+          title: '2017 01 Davood Award',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2017-01-davood-award/";
             },},{id: "news-2017-01-snmf",
           title: '2017 01 Snmf',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2017-01-snmf/";
+            },},{id: "news-2017-01-tsg-paper",
+          title: '2017 01 Tsg Paper',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2017-01-tsg-paper/";
+            },},{id: "news-2017-01-aistats-paper",
+          title: '2017 01 Aistats Paper',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2017-01-aistats-paper/";
+            },},{id: "news-2017-02-nvidia-grant",
+          title: '2017 02 Nvidia Grant',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2017-02-nvidia-grant/";
             },},{id: "news-2017-04-songtao-award",
           title: '2017 04 Songtao Award',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2017-04-songtao-award/";
+            },},{id: "news-2017-04-gcca-paper",
+          title: '2017 04 Gcca Paper',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2017-04-gcca-paper/";
+            },},{id: "news-2017-05-snmf-paper",
+          title: '2017 05 Snmf Paper',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2017-05-snmf-paper/";
             },},{id: "news-2017-05-icml",
           title: '2017 05 Icml',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2017-05-icml/";
+            },},{id: "news-2017-06-sipn-paper",
+          title: '2017 06 Sipn Paper',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2017-06-sipn-paper/";
+            },},{id: "news-2017-08-postdoc-hiring",
+          title: '2017 08 Postdoc Hiring',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2017-08-postdoc-hiring/";
             },},{id: "news-2017-08-umn-move",
           title: '2017 08 Umn Move',
           description: "",
@@ -775,6 +910,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-05-siliang-defense/";
+            },},{id: "news-2026-01-informs-sessions",
+          title: '2026 01 Informs Sessions',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-01-informs-sessions/";
+            },},{id: "news-2026-02-spm-tutorial",
+          title: '2026 02 Spm Tutorial',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-02-spm-tutorial/";
             },},{id: "projects-large-scale-optimization",
           title: 'Large-Scale Optimization',
           description: "Design and analysis of modern optimization algorithms for large-scale problems",
