@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
+title: People
 description: Members of the OptimAI Lab
 nav: true
 nav_order: 6
