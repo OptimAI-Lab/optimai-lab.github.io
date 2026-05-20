@@ -1,7 +1,6 @@
-### Mingyi Hong
+### Mingyi Hong (PI)
 
-Associate Professor
-
+Associate Professor  
 **Electrical and Computer Engineering**  
 **University of Minnesota**
 
@@ -15,7 +14,3 @@ Email: [mhong@umn.edu](mailto:mhong@umn.edu)
 
 - [Google Scholar](https://scholar.google.com/citations?user=qRnP-p0AAAAJ&hl=en)
 - [X (Twitter)](https://x.com/Mingyi552237)
-
-#### Research Interests
-
-Large-scale optimization, machine learning, distributed optimization, nonconvex optimization, bilevel optimization, min-max optimization.

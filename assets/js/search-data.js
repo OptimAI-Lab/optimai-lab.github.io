@@ -865,6 +865,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2021-06-stem/";
+            },},{id: "news-2021-12-sps-best-paper-2016",
+          title: '2021 12 Sps Best Paper 2016',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2021-12-sps-best-paper-2016/";
             },},{id: "news-2022-05-xiangyi-graduation",
           title: '2022 05 Xiangyi Graduation',
           description: "",
@@ -875,11 +880,26 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2022-10-hiking/";
+            },},{id: "news-2022-12-sps-best-paper",
+          title: '2022 12 Sps Best Paper',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2022-12-sps-best-paper/";
             },},{id: "news-2022-12-escape-room",
           title: '2022 12 Escape Room',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2022-12-escape-room/";
+            },},{id: "news-2022-12-sps-career-award",
+          title: '2022 12 Sps Career Award',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2022-12-sps-career-award/";
+            },},{id: "news-2023-06-sps-awards",
+          title: '2023 06 Sps Awards',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2023-06-sps-awards/";
             },},{id: "news-2023-09-kayak",
           title: '2023 09 Kayak',
           description: "",
@@ -900,16 +920,131 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2023-12-neurips/";
+            },},{id: "news-2024-07-nsf-bilevel",
+          title: '2024 07 Nsf Bilevel',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2024-07-nsf-bilevel/";
+            },},{id: "news-2024-08-informs-award",
+          title: '2024 08 Informs Award',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2024-08-informs-award/";
             },},{id: "news-2024-09-kayak",
           title: '2024 09 Kayak',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2024-09-kayak/";
+            },},{id: "news-2024-09-neurips-accept",
+          title: '2024 09 Neurips Accept',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2024-09-neurips-accept/";
+            },},{id: "news-2024-11-ibm-award",
+          title: '2024 11 Ibm Award',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2024-11-ibm-award/";
+            },},{id: "news-2024-11-nsf-irl",
+          title: '2024 11 Nsf Irl',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2024-11-nsf-irl/";
+            },},{id: "news-2024-12-nsf-molecule",
+          title: '2024 12 Nsf Molecule',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2024-12-nsf-molecule/";
+            },},{id: "news-2025-01-amazon-fellowship",
+          title: '2025 01 Amazon Fellowship',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-01-amazon-fellowship/";
+            },},{id: "news-2025-01-ieee-fellow",
+          title: '2025 01 Ieee Fellow',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-01-ieee-fellow/";
+            },},{id: "news-2025-02-iclr-accept",
+          title: '2025 02 Iclr Accept',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-02-iclr-accept/";
+            },},{id: "news-2025-04-icml-accept",
+          title: '2025 04 Icml Accept',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-04-icml-accept/";
+            },},{id: "news-2025-05-blur-unlearning",
+          title: '2025 05 Blur Unlearning',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-05-blur-unlearning/";
             },},{id: "news-2025-05-siliang-defense",
           title: '2025 05 Siliang Defense',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-05-siliang-defense/";
+            },},{id: "news-2025-05-multi-turn-rl",
+          title: '2025 05 Multi Turn Rl',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-05-multi-turn-rl/";
+            },},{id: "news-2025-05-openphilanthropy",
+          title: '2025 05 Openphilanthropy',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-05-openphilanthropy/";
+            },},{id: "news-2025-06-pretraining-paper",
+          title: '2025 06 Pretraining Paper',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-06-pretraining-paper/";
+            },},{id: "news-2025-07-iccopt-talk",
+          title: '2025 07 Iccopt Talk',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-07-iccopt-talk/";
+            },},{id: "news-2025-07-nsf-fusion",
+          title: '2025 07 Nsf Fusion',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-07-nsf-fusion/";
+            },},{id: "news-2025-09-new-students",
+          title: '2025 09 New Students',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-09-new-students/";
+            },},{id: "news-2025-09-bilevel-paper",
+          title: '2025 09 Bilevel Paper',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-09-bilevel-paper/";
+            },},{id: "news-2025-09-balas-prize",
+          title: '2025 09 Balas Prize',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-09-balas-prize/";
+            },},{id: "news-2025-11-bilevel-slides",
+          title: '2025 11 Bilevel Slides',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-11-bilevel-slides/";
+            },},{id: "news-2025-11-oscar-joining",
+          title: '2025 11 Oscar Joining',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-11-oscar-joining/";
+            },},{id: "news-2025-11-dawei-joining",
+          title: '2025 11 Dawei Joining',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-11-dawei-joining/";
+            },},{id: "news-2025-12-jpmorgan-award",
+          title: '2025 12 Jpmorgan Award',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-12-jpmorgan-award/";
             },},{id: "news-2026-01-informs-sessions",
           title: '2026 01 Informs Sessions',
           description: "",
