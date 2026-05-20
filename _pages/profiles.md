@@ -11,11 +11,6 @@ profiles:
     image: Mingyi_Hong.png
     content: pi_mingyi.md
     image_circular: false
-    more_info: >
-      <p>Associate Professor</p>
-      <p>Electrical and Computer Engineering</p>
-      <p>University of Minnesota</p>
-      <p><a href="https://scholar.google.com/citations?user=qRnP-p0AAAAJ&hl=en">Google Scholar</a></p>
 ---
 
 ## Postdoctoral Fellows
