@@ -2,20 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://ece.umn.edu'>Electrical and Computer Engineering</a>, University of Minnesota
 
-profile:
-  align: right
-  image: Mingyi_Hong.png
-  image_circular: false
-  more_info: >
-    <p>6-109 Keller Hall</p>
-    <p>Minneapolis, MN 55455</p>
-    <p>TEL: (612)-625-3505</p>
-    <p>Email: mhong at umn.edu</p>
+profile: false
 
-selected_papers: true
-social: true
+selected_papers: false
+social: false
 
 announcements:
   enabled: true
@@ -25,6 +16,14 @@ announcements:
 latest_posts:
   enabled: false
 ---
+
+<!-- Banner Section -->
+<div class="banner-container" style="position: relative; width: 100%; margin-bottom: 2rem;">
+  <img src="{{ 'assets/img/banner.jpg' | relative_url }}" alt="OptimAI Lab Banner" style="width: 100%; height: auto; display: block;">
+  <div class="banner-text" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
+    <h1 style="color: white; font-size: 3rem; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); margin: 0;">UMN OptimAI-Lab</h1>
+  </div>
+</div>
 
 The **Optimization for Artificial Intelligence (OptimAI) Lab** at the University of Minnesota focuses on designing and analyzing optimization methods for problems arising in data science, machine learning, and AI. Our research spans both theoretical foundations and practical applications.
 
