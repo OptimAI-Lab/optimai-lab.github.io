@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: OptimAI
+first_name: ""
 middle_name: ""
-last_name: Lab
+last_name: ""
 contact_note: >
   6-109 Keller Hall, University of Minnesota - Twin Cities, Minneapolis, MN 55455
 description: > # the ">" symbol means to ignore newlines until "footer_text:"

@@ -21,7 +21,7 @@ latest_posts:
 <div class="banner-container" style="position: relative; width: 100%; margin-bottom: 2rem;">
   <img src="{{ 'assets/img/banner.jpg' | relative_url }}" alt="OptimAI Lab Banner" style="width: 100%; height: auto; display: block;">
   <div class="banner-text" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
-    <h1 style="color: white; font-size: 3rem; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); margin: 0;">UMN OptimAI-Lab</h1>
+    <h1 style="color: black; font-size: 3rem; font-weight: bold; margin: 0;">UMN OptimAI-Lab</h1>
   </div>
 </div>
 

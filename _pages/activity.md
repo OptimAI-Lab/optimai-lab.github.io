@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /gallery/
-title: gallery
+permalink: /activity/
+title: Activity
 description: Group photos and activities
 nav: true
 nav_order: 5
