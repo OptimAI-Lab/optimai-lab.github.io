@@ -25,25 +25,11 @@ latest_posts:
   </div>
 </div>
 
-The **Optimization for Artificial Intelligence (OptimAI) Lab** at the University of Minnesota focuses on designing and analyzing optimization methods for problems arising in data science, machine learning, and AI. Our research spans both theoretical foundations and practical applications.
+The **Optimization for Artificial Intelligence (OptimAI) Lab** at the University of Minnesota focuses on designing and analyzing optimization methods for problems arising in data science, machine learning, and AI. Our research spans both theoretical foundations—including first-order/zeroth-order stochastic algorithms, momentum-based methods, bi-level and min-max optimization, and equilibrium analysis for noncooperative games—and practical applications in LLM agents, alignment for large language models and diffusion models, robust machine learning, inverse reinforcement learning, differential privacy, and scalable fine-tuning algorithms.
 
-## Research Interests
+## Open Positions
 
-Our research focuses on theoretical topics including:
-
-- **Design and Analysis for first-order/zeroth-order, stochastic, convex and nonconvex algorithms**
-- **Design and Analysis for Momentum-Based Methods**
-- **Bi-level and Min-Max optimization problems**
-- **Analysis of equilibrium solutions for noncooperative games**
-
-These theoretical developments are empowered by applications in various engineering domains:
-
-- **LLM Agents**
-- **Alignment for Large Language Models and Diffusion Models**
-- **Robust (Adversarial) Machine Learning**
-- **Inverse Reinforcement Learning and Structural Estimation**
-- **Differential Privacy**
-- **Scalable fine-tuning algorithms**
+We have **research assistant** and **postdoctoral fellow** positions available in the general areas of optimization, diffusion models, and LLM. If you are interested, please contact [Dr. Hong](mailto:mhong@umn.edu).
 
 ## Lab Links
 
