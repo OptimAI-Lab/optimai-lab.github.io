@@ -3,21 +3,21 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-home",
+    title: "Home",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
   },{id: "nav-news",
-          title: "news",
+          title: "News",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/news/";
           },
         },{id: "nav-projects",
-          title: "projects",
+          title: "Projects",
           description: "Our research spans several areas in optimization and machine learning.",
           section: "Navigation",
           handler: () => {
@@ -31,7 +31,7 @@ ninja.data = [{
             window.location.href = "/activity/";
           },
         },{id: "nav-people",
-          title: "people",
+          title: "People",
           description: "Members of the OptimAI Lab",
           section: "Navigation",
           handler: () => {
