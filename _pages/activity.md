@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /activity/
-title: Activity
+title: Activities
 description: Group photos and activities
 nav: true
 nav_order: 5
