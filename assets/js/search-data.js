@@ -1055,6 +1055,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-02-spm-tutorial/";
+            },},{id: "projects-leak-k",
+          title: 'Leak@k',
+          description: "A meta-metric evaluation framework to evaluate robustness of LLM unlearning",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/0_leak-k/";
             },},{id: "projects-large-scale-optimization",
           title: 'Large-Scale Optimization',
           description: "Design and analysis of modern optimization algorithms for large-scale problems",
