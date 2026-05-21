@@ -13,6 +13,11 @@ announcements:
   scrollable: true
   limit: 16
 
+sampled_projects:
+  enabled: true
+  projects: [leak-k, optimization, multiagent]
+  show_more_link: true
+
 latest_posts:
   enabled: false
 ---
