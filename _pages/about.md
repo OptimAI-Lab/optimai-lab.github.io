@@ -11,6 +11,7 @@ social: false
 announcements:
   enabled: true
   scrollable: true
+  limit: 16
 
 latest_posts:
   enabled: false
@@ -27,7 +28,7 @@ latest_posts:
 The **Optimization for Artificial Intelligence (OptimAI) Lab** at the University of Minnesota focuses on designing and analyzing optimization methods for problems arising in data science, machine learning, and AI. Our research spans both theoretical foundations—including first-order/zeroth-order stochastic algorithms, momentum-based methods, bi-level and min-max optimization, and equilibrium analysis for noncooperative games—and practical applications in LLM agents, alignment for large language models and diffusion models, robust machine learning, inverse reinforcement learning, differential privacy, and scalable fine-tuning algorithms.
 
 <div style="display: flex; justify-content: flex-start; gap: 2rem; margin-top: 1rem; margin-bottom: 1.5rem;">
-  <span style="font-weight: bold;">Links:</span>
+  <span style="font-weight: bold; font-size: 18px;">Follow Us:</span>
   <a href="https://x.com/OptimAI_LAB" target="_blank" style="display: inline-flex; align-items: center; gap: 0.5rem; text-decoration: none; color: var(--global-text-color);">
     <i class="fa-brands fa-x-twitter" style="font-size: 1.5rem;"></i>
     <span>X (Twitter)</span>
