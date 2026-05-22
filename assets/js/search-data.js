@@ -18,21 +18,21 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "Our research spans several areas in optimization and machine learning.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-activities",
           title: "Activities",
-          description: "Group photos and activities",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/activity/";
           },
         },{id: "nav-people",
           title: "People",
-          description: "Members of the OptimAI Lab",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
