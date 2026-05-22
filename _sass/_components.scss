@@ -448,20 +448,22 @@ ul.task-list input[type="checkbox"] {
     .pi-title {
       font-size: 1.1rem;
       color: var(--global-text-color);
-      margin-bottom: 0.25rem;
+      margin-bottom: 0.5rem;
     }
 
-    .pi-dept {
+    .pi-affiliation {
       font-size: 1rem;
-      color: var(--global-theme-color);
-      margin-bottom: 0;
-    }
-
-    .pi-univ {
-      font-size: 1rem;
-      color: var(--global-text-color);
-      opacity: 0.8;
       margin-bottom: 1rem;
+      line-height: 1.5;
+
+      a {
+        color: var(--global-theme-color);
+        text-decoration: none;
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
     }
 
     .pi-contact {
@@ -537,8 +539,7 @@ ul.task-list input[type="checkbox"] {
       }
 
       .pi-title,
-      .pi-dept,
-      .pi-univ {
+      .pi-affiliation {
         text-align: center;
       }
 
@@ -555,6 +556,10 @@ ul.task-list input[type="checkbox"] {
 
     .pi-info h3 {
       font-size: 1.25rem;
+    }
+
+    .pi-info .pi-affiliation {
+      font-size: 0.9rem;
     }
 
     .pi-links {

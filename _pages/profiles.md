@@ -15,8 +15,10 @@ nav_order: 6
   <div class="pi-info">
     <h3>Mingyi Hong</h3>
     <p class="pi-title">Associate Professor</p>
-    <p class="pi-dept">Department of Electrical and Computer Engineering</p>
-    <p class="pi-univ">University of Minnesota</p>
+    <p class="pi-affiliation">
+      <a href="https://cse.umn.edu/ece" target="_blank">Department of Electrical and Computer Engineering</a><br>
+      <a href="https://twin-cities.umn.edu/" target="_blank">University of Minnesota</a>
+    </p>
     
     <div class="pi-contact">
       <p><strong>Office:</strong> 6-109 Keller Hall</p>
