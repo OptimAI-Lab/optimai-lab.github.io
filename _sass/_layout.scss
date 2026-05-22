@@ -74,6 +74,52 @@ body.sticky-bottom-footer {
   margin-bottom: 2rem;
   padding-top: 1rem;
   padding-bottom: 1rem;
+
+  p {
+    margin-bottom: 1rem;
+    line-height: 1.7;
+
+    strong {
+      color: var(--global-theme-color);
+    }
+  }
+
+  ul {
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+    padding-left: 1.5rem;
+
+    li {
+      margin-bottom: 0.75rem;
+      line-height: 1.6;
+
+      strong {
+        color: var(--global-theme-color);
+      }
+    }
+  }
+
+  // Mobile responsive
+  @media (max-width: 576px) {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+
+    p {
+      font-size: 0.95rem;
+      line-height: 1.6;
+    }
+
+    ul {
+      padding-left: 1rem;
+
+      li {
+        font-size: 0.95rem;
+        margin-bottom: 0.5rem;
+      }
+    }
+  }
 }
 
 // Profile
