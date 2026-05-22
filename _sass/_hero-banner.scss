@@ -5,13 +5,14 @@
 @use "sass:math";
 
 .hero-banner {
-  /* Break out of container for true full-width */
+  /* Break out of container for true full-width and remove top margin */
   position: relative;
   width: 100vw;
   left: 50%;
   right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
+  margin-top: -3rem; /* Counteract container's mt-5 */
 
   /* Sizing */
   height: 400px;
@@ -94,6 +95,7 @@
     left: 50%;
     margin-left: -50vw;
     margin-right: -50vw;
+    margin-top: -3rem;
   }
 
   .hero-banner-title {
@@ -117,9 +119,10 @@
   .hero-banner {
     height: 250px;
     min-height: 150px;
-    /* Critical fix: ensure banner doesn't push navbar */
-    margin-top: 0;
-    position: relative;
+    left: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    margin-top: -2rem;
   }
 
   .hero-banner-title {
