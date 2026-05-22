@@ -53,10 +53,15 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
-// Profile
+// Profile - reduced gap between text and image
 
 .profile {
   width: 100%;
+
+  img {
+    max-width: 200px;
+    border-radius: 4px;
+  }
 
   .more-info {
     margin-bottom: 5px;
@@ -71,22 +76,35 @@ ul.task-list input[type="checkbox"] {
 }
 
 .profile.float-right {
-  margin-left: 1rem;
+  margin-left: 0.5rem;
 }
 
 .profile.float-left {
-  margin-right: 1rem;
+  margin-right: 0.5rem;
 }
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 20%;
+
+    img {
+      width: 100%;
+      max-width: none;
+    }
 
     .address {
       p {
         display: block;
       }
     }
+  }
+
+  .profile.float-right {
+    margin-left: 1.5rem;
+  }
+
+  .profile.float-left {
+    margin-right: 1.5rem;
   }
 }
 

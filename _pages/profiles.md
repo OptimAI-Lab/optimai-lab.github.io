@@ -12,11 +12,11 @@ profiles:
     image_circular: false
 ---
 
+<h2 class="section-title">Principal Investigator</h2>
+
 <div class="people-page">
 
-## Postdoctoral Fellows
-
-<hr class="section-divider">
+<h2 class="section-title">Postdoctoral Fellows</h2>
 
 <div class="row row-cols-2 row-cols-md-3" style="margin-top: 20px;">
 <div class="col mb-4">
@@ -48,9 +48,7 @@ profiles:
 </div>
 </div>
 
-## Current Ph.D. Students
-
-<hr class="section-divider">
+<h2 class="section-title">Current Ph.D. Students</h2>
 
 <div class="row row-cols-2 row-cols-md-3" style="margin-top: 20px;">
 <div class="col mb-4">
@@ -118,9 +116,7 @@ profiles:
 </div>
 </div>
 
-## Alumni
-
-<hr class="section-divider">
+<h2 class="section-title">Alumni</h2>
 
 <div class="row row-cols-2 row-cols-md-3" style="margin-top: 20px;">
 <div class="col mb-4">
