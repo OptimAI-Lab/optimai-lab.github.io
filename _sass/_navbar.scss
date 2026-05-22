@@ -178,6 +178,61 @@
   }
 }
 
+/* Mobile navbar fixes */
+@media (max-width: 576px) {
+  .navbar {
+    /* Ensure navbar stays visible above all content */
+    z-index: 1000;
+    position: sticky;
+    top: 0;
+  }
+
+  .navbar-toggler {
+    /* Ensure hamburger button is visible and clickable */
+    display: block !important;
+    z-index: 1001;
+    position: relative;
+    /* Increase touch target size */
+    padding: 0.5rem 0.75rem;
+    margin-right: 0.5rem;
+    border: 1px solid var(--global-divider-color);
+  }
+
+  .navbar-collapse {
+    /* Position dropdown below navbar */
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background-color: var(--global-bg-color);
+    border-bottom: 1px solid var(--global-divider-color);
+    z-index: 999;
+    padding: 1rem;
+  }
+
+  .navbar-nav {
+    /* Stack nav items vertically */
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .nav-item {
+    width: 100%;
+    text-align: right;
+  }
+
+  /* Fix toggler icon bars visibility */
+  .navbar-toggler .icon-bar {
+    display: block;
+    width: 22px;
+    height: 2px;
+    background-color: var(--global-text-color);
+    border-radius: 1px;
+    margin-bottom: 4px;
+    opacity: 1;
+  }
+}
+
 #search-toggle {
   padding: 0;
   border: 0;

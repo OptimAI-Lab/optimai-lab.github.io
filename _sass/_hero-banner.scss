@@ -1,0 +1,134 @@
+/******************************************************************************
+ * Hero Banner - Full-width responsive banner with centered text
+ ******************************************************************************/
+
+@use "sass:math";
+
+.hero-banner {
+  /* Break out of container for true full-width */
+  position: relative;
+  width: 100vw;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+
+  /* Sizing */
+  height: 400px;
+  min-height: 300px;
+
+  /* Background image setup */
+  background-image: url('/assets/img/banner.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+
+  /* Flexbox centering */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  /* Remove any inherited padding */
+  padding: 0;
+
+  /* Prevent overflow on mobile */
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+/* Dark overlay for text readability */
+.hero-banner::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.4); /* 40% dark overlay */
+  z-index: 1;
+}
+
+/* Centered text content */
+.hero-banner-content {
+  position: relative;
+  z-index: 2;
+  text-align: center;
+  color: white;
+  /* Ensure proper centering on all screen sizes */
+  width: 100%;
+  max-width: 90%;
+  padding: 0 1rem;
+  box-sizing: border-box;
+}
+
+.hero-banner-title {
+  font-size: 4rem;
+  font-weight: 700;
+  margin: 0;
+  padding: 0;
+  letter-spacing: 0.05em;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+  /* Prevent overflow */
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+.hero-banner-subtitle {
+  font-size: 1.5rem;
+  font-weight: 400;
+  margin-top: 1rem;
+  opacity: 0.9;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .hero-banner {
+    height: 300px;
+    min-height: 200px;
+    /* Ensure proper positioning on smaller screens */
+    left: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+  }
+
+  .hero-banner-title {
+    font-size: 2.5rem;
+    line-height: 1.2;
+  }
+
+  .hero-banner-subtitle {
+    font-size: 1rem;
+  }
+
+  .hero-banner-content {
+    padding: 1rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .hero-banner {
+    height: 250px;
+    min-height: 150px;
+    /* Critical fix: ensure banner doesn't push navbar */
+    margin-top: 0;
+    position: relative;
+  }
+
+  .hero-banner-title {
+    font-size: 1.75rem;
+    line-height: 1.3;
+    letter-spacing: 0.02em;
+  }
+
+  .hero-banner-subtitle {
+    font-size: 0.9rem;
+    margin-top: 0.5rem;
+  }
+
+  .hero-banner-content {
+    padding: 0.5rem;
+    max-width: 95%;
+  }
+}
