@@ -14,16 +14,19 @@
   margin-bottom: 0.5rem;
 }
 
-// Section titles - clean styling for h2 headings
+// Section titles - distinctive style with left accent bar
 .section-title,
 .post article h2 {
   font-family: 'Roboto Slab', serif;
   font-style: normal;
-  font-weight: 500;
-  font-size: 1.75rem;
+  font-weight: 700;
+  font-size: 1.5rem;
   color: var(--global-text-color);
-  margin-top: 2.5rem;
-  margin-bottom: 1.5rem;
+  margin-top: 2rem;
+  margin-bottom: 1.25rem;
+  padding-left: 0.75rem;
+  border-left: 4px solid var(--global-theme-color);
+  line-height: 1.4;
 
   a {
     color: inherit;
@@ -43,9 +46,11 @@
 
   .section-title,
   .post article h2 {
-    font-size: 1.5rem;
-    margin-top: 2rem;
+    font-size: 1.25rem;
+    margin-top: 1.5rem;
     margin-bottom: 1rem;
+    padding-left: 0.5rem;
+    border-left-width: 3px;
   }
 }
 
