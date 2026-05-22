@@ -415,18 +415,6 @@ ul.task-list input[type="checkbox"] {
     color: var(--global-theme-color);
     margin-top: 2.5rem;
     margin-bottom: 1rem;
-    position: relative;
-
-    &::after {
-      content: '';
-      position: absolute;
-      bottom: -0.5rem;
-      left: 0;
-      width: 40px;
-      height: 2px;
-      background-color: var(--global-theme-color);
-      border-radius: 1px;
-    }
   }
 
   hr.section-divider {

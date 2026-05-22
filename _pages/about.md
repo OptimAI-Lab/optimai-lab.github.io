@@ -32,9 +32,7 @@ latest_posts:
 ## Who Are We?
 
 <div class="about-section">
-<p>Welcome to the <strong>Optimization for Artificial Intelligence (OptimAI) Lab</strong> in the Department of Electrical and Computer Engineering at the University of Minnesota.</p>
-
-<p>Our goal is to develop principled optimization algorithms that advance artificial intelligence and machine learning systems, bridging the gap between theoretical foundations and practical applications.</p>
+<p>Welcome to the <strong>Optimization for Artificial Intelligence (OptimAI) Lab</strong> in the <a href="https://cse.umn.edu/ece" target="_blank">Department of Electrical and Computer Engineering</a> at the <a href="https://twin-cities.umn.edu/" target="_blank">University of Minnesota</a>. Our goal is to develop principled optimization algorithms that advance artificial intelligence and machine learning systems, bridging the gap between theoretical foundations and practical applications.</p>
 
 <p>Our research focuses on:</p>
 
