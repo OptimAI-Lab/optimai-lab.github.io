@@ -1,18 +1,39 @@
 ---
-layout: profiles
+layout: page
 permalink: /people/
 title: People
 nav: true
 nav_order: 6
-
-profiles:
-  - align: right
-    image: Mingyi_Hong.png
-    content: pi_mingyi.md
-    image_circular: false
 ---
 
 <h2 class="section-title">Principal Investigator</h2>
+
+<div class="pi-profile">
+  <div class="pi-photo">
+    <img src="{{ '/assets/img/Mingyi_Hong.png' | relative_url }}" alt="Mingyi Hong" class="img-fluid rounded">
+  </div>
+  <div class="pi-info">
+    <h3>Mingyi Hong</h3>
+    <p class="pi-title">Associate Professor</p>
+    <p class="pi-dept">Department of Electrical and Computer Engineering</p>
+    <p class="pi-univ">University of Minnesota</p>
+    
+    <div class="pi-contact">
+      <p><strong>Office:</strong> 6-109 Keller Hall</p>
+      <p><strong>Phone:</strong> (612) 625-3505</p>
+      <p><strong>Email:</strong> <a href="mailto:mhong@umn.edu">mhong@umn.edu</a></p>
+    </div>
+    
+    <div class="pi-links">
+      <a href="https://scholar.google.com/citations?user=qRnP-p0AAAAJ&hl=en" target="_blank" class="pi-link">
+        <i class="fa-solid fa-graduation-cap"></i> Google Scholar
+      </a>
+      <a href="https://x.com/Mingyi552237" target="_blank" class="pi-link">
+        <i class="fa-brands fa-x-twitter"></i> X (Twitter)
+      </a>
+    </div>
+  </div>
+</div>
 
 <div class="people-page">
 

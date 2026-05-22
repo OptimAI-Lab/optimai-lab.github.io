@@ -410,6 +410,165 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// PI Profile - clean layout with larger photo
+
+.pi-profile {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  background-color: var(--global-card-bg-color);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 8px;
+
+  .pi-photo {
+    flex: 0 0 250px;
+    max-width: 250px;
+
+    img {
+      width: 100%;
+      height: auto;
+      border-radius: 4px;
+    }
+  }
+
+  .pi-info {
+    flex: 1;
+    min-width: 300px;
+
+    h3 {
+      font-family: 'Roboto Slab', serif;
+      font-size: 1.75rem;
+      font-weight: 700;
+      margin-bottom: 0.25rem;
+      color: var(--global-text-color);
+    }
+
+    .pi-title {
+      font-size: 1.1rem;
+      color: var(--global-text-color);
+      margin-bottom: 0.25rem;
+    }
+
+    .pi-dept {
+      font-size: 1rem;
+      color: var(--global-theme-color);
+      margin-bottom: 0;
+    }
+
+    .pi-univ {
+      font-size: 1rem;
+      color: var(--global-text-color);
+      opacity: 0.8;
+      margin-bottom: 1rem;
+    }
+
+    .pi-contact {
+      margin-top: 1rem;
+      padding-top: 1rem;
+      border-top: 1px solid var(--global-divider-color);
+
+      p {
+        margin-bottom: 0.25rem;
+        font-size: 0.95rem;
+        color: var(--global-text-color);
+
+        strong {
+          font-weight: 600;
+        }
+      }
+    }
+
+    .pi-links {
+      margin-top: 1rem;
+      display: flex;
+      gap: 1rem;
+
+      .pi-link {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.5rem;
+        padding: 0.5rem 1rem;
+        background-color: var(--global-bg-color);
+        border: 1px solid var(--global-divider-color);
+        border-radius: 4px;
+        color: var(--global-text-color);
+        text-decoration: none;
+        font-size: 0.9rem;
+        transition: all 0.2s ease;
+
+        i {
+          font-size: 1rem;
+          color: var(--global-theme-color);
+        }
+
+        &:hover {
+          background-color: var(--global-theme-color);
+          color: white;
+          border-color: var(--global-theme-color);
+
+          i {
+            color: white;
+          }
+        }
+      }
+    }
+  }
+
+  // Mobile responsive
+  @media (max-width: 768px) {
+    flex-direction: column;
+    gap: 1.5rem;
+    padding: 1rem;
+
+    .pi-photo {
+      flex: none;
+      max-width: 200px;
+      margin: 0 auto;
+    }
+
+    .pi-info {
+      min-width: auto;
+
+      h3 {
+        font-size: 1.5rem;
+        text-align: center;
+      }
+
+      .pi-title,
+      .pi-dept,
+      .pi-univ {
+        text-align: center;
+      }
+
+      .pi-links {
+        justify-content: center;
+      }
+    }
+  }
+
+  @media (max-width: 576px) {
+    .pi-photo {
+      max-width: 150px;
+    }
+
+    .pi-info h3 {
+      font-size: 1.25rem;
+    }
+
+    .pi-links {
+      flex-direction: column;
+      align-items: center;
+
+      .pi-link {
+        width: 100%;
+        justify-content: center;
+      }
+    }
+  }
+}
+
 // People/Profiles page styling
 
 .people-page {
