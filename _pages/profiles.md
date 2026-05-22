@@ -2,7 +2,6 @@
 layout: profiles
 permalink: /people/
 title: People
-description: Members of the OptimAI Lab
 nav: true
 nav_order: 6
 
@@ -13,9 +12,11 @@ profiles:
     image_circular: false
 ---
 
+<div class="people-page">
+
 ## Postdoctoral Fellows
 
-<hr style="border-top: 3px solid #dee2e6; margin: 20px 0;">
+<hr class="section-divider">
 
 <div class="row row-cols-2 row-cols-md-3" style="margin-top: 20px;">
 <div class="col mb-4">
@@ -49,7 +50,7 @@ profiles:
 
 ## Current Ph.D. Students
 
-<hr style="border-top: 3px solid #dee2e6; margin: 20px 0;">
+<hr class="section-divider">
 
 <div class="row row-cols-2 row-cols-md-3" style="margin-top: 20px;">
 <div class="col mb-4">
@@ -119,7 +120,7 @@ profiles:
 
 ## Alumni
 
-<hr style="border-top: 3px solid #dee2e6; margin: 20px 0;">
+<hr class="section-divider">
 
 <div class="row row-cols-2 row-cols-md-3" style="margin-top: 20px;">
 <div class="col mb-4">
@@ -230,4 +231,6 @@ profiles:
 </div>
 </div>
 </div>
+</div>
+
 </div>

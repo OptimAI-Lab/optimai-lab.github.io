@@ -139,6 +139,22 @@ ul.task-list input[type="checkbox"] {
     img {
       width: 100%;
     }
+
+    // Project card title styling
+    .card-title {
+      font-family: 'Roboto Slab', serif;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 1.25rem;
+      color: var(--global-text-color);
+      margin-bottom: 0.5rem;
+    }
+
+    .card-text {
+      font-size: 0.9rem;
+      color: var(--global-text-color);
+      opacity: 0.85;
+    }
   }
 
   .col {
@@ -151,13 +167,56 @@ ul.task-list input[type="checkbox"] {
     margin-bottom: 10px;
   }
 
+  // Category header styling - styled differently from section titles
   h2.category {
-    color: var(--global-divider-color);
-    border-bottom: 1px solid var(--global-divider-color);
-    padding-top: 0.5rem;
+    font-family: 'Roboto Slab', serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.5rem;
+    color: var(--global-theme-color);
+    text-align: left;
+    padding-top: 1.5rem;
     margin-top: 2rem;
-    margin-bottom: 1rem;
-    text-align: right;
+    margin-bottom: 1.5rem;
+    position: relative;
+    border-bottom: none;
+
+    // Accent marker before category
+    &::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 4px;
+      height: 100%;
+      background-color: var(--global-theme-color);
+      border-radius: 2px;
+      margin-left: -1rem;
+    }
+
+    a {
+      color: var(--global-theme-color);
+      text-decoration: none;
+    }
+  }
+
+  // Mobile responsive for project cards
+  @media (max-width: 576px) {
+    h2.category {
+      font-size: 1.25rem;
+      margin-top: 1.5rem;
+      margin-bottom: 1rem;
+      padding-top: 1rem;
+
+      &::before {
+        width: 3px;
+        margin-left: -0.5rem;
+      }
+    }
+
+    .card .card-title {
+      font-size: 1.1rem;
+    }
   }
 }
 
@@ -297,6 +356,130 @@ ul.task-list input[type="checkbox"] {
   hr {
     @media (max-width: 576px) {
       margin: 0.5rem 0;
+    }
+  }
+}
+
+// Activities page styling
+
+.activities-grid {
+  margin-top: 1rem;
+
+  .activity-row {
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+  }
+
+  .activity-caption {
+    margin-top: 0.75rem;
+    font-size: 0.95rem;
+    color: var(--global-text-color);
+
+    b {
+      color: var(--global-theme-color);
+      font-weight: 600;
+    }
+  }
+
+  // Image hover effect
+  img {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+    &:hover {
+      transform: scale(1.02);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    }
+  }
+
+  // Mobile responsive
+  @media (max-width: 576px) {
+    .activity-row {
+      margin-bottom: 1.5rem;
+      padding-bottom: 0.5rem;
+    }
+
+    .activity-caption {
+      font-size: 0.85rem;
+    }
+  }
+}
+
+// People/Profiles page styling
+
+.people-page {
+  h2 {
+    font-family: 'Roboto Slab', serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.5rem;
+    color: var(--global-theme-color);
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    position: relative;
+
+    &::after {
+      content: '';
+      position: absolute;
+      bottom: -0.5rem;
+      left: 0;
+      width: 40px;
+      height: 2px;
+      background-color: var(--global-theme-color);
+      border-radius: 1px;
+    }
+  }
+
+  hr.section-divider {
+    border-top: 3px solid var(--global-divider-color);
+    margin: 20px 0;
+  }
+
+  .card {
+    border: 1px solid var(--global-divider-color);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+    &:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+
+    .card-title {
+      font-family: 'Roboto Slab', serif;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 1.1rem;
+      margin-bottom: 0.25rem;
+
+      a {
+        color: var(--global-text-color);
+        text-decoration: none;
+
+        &:hover {
+          color: var(--global-theme-color);
+        }
+      }
+    }
+
+    .card-text {
+      font-size: 0.85rem;
+      color: var(--global-text-color);
+      opacity: 0.8;
+    }
+  }
+
+  // Mobile responsive
+  @media (max-width: 576px) {
+    h2 {
+      font-size: 1.25rem;
+      margin-top: 1.5rem;
+    }
+
+    .card .card-title {
+      font-size: 1rem;
+    }
+
+    .card .card-text {
+      font-size: 0.8rem;
     }
   }
 }

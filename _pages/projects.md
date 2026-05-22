@@ -2,7 +2,6 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Our research spans several areas in optimization and machine learning.
 nav: true
 nav_order: 3
 display_categories: [research]
