@@ -1080,6 +1080,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-05-dawei-postdoc/";
+            },},{id: "news-2026-05-bilevel-regularity",
+          title: '2026 05 Bilevel Regularity',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-05-bilevel-regularity/";
             },},{id: "projects-leak-k",
           title: 'Leak@k',
           description: "A meta-metric evaluation framework to evaluate robustness of LLM unlearning",
