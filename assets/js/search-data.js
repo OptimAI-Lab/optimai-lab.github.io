@@ -1060,6 +1060,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-03-informs-pretraining/";
+            },},{id: "news-2026-03-blur-eacl",
+          title: '2026 03 Blur Eacl',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-03-blur-eacl/";
             },},{id: "news-2026-05-icml-accepted",
           title: '2026 05 Icml Accepted',
           description: "",
