@@ -1055,6 +1055,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-02-spm-tutorial/";
+            },},{id: "news-2026-03-informs-pretraining",
+          title: '2026 03 Informs Pretraining',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-03-informs-pretraining/";
             },},{id: "news-2026-05-icml-accepted",
           title: '2026 05 Icml Accepted',
           description: "",
