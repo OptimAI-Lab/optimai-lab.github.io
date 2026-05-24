@@ -1060,6 +1060,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-05-icml-accepted/";
+            },},{id: "news-2026-05-talk",
+          title: '2026 05 Talk',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-05-talk/";
             },},{id: "projects-leak-k",
           title: 'Leak@k',
           description: "A meta-metric evaluation framework to evaluate robustness of LLM unlearning",
