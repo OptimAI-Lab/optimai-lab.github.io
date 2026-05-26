@@ -2,7 +2,7 @@
 layout: page
 title: Next Generation Communication Networks
 description: Cross-layer optimization for 5G and beyond wireless networks
-img: assets/img/f1.jpg
+img: assets/img/projects/f1.jpg
 importance: 4
 category: research
 ---

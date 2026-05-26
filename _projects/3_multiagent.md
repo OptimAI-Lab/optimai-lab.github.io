@@ -3,7 +3,7 @@ layout: page
 title: Distributed Multi-Agent Systems
 slug: multiagent
 description: Distributed in-network data processing and parallel optimization algorithms
-img: assets/img/social.png
+img: assets/img/projects/social.png
 importance: 3
 category: research
 ---

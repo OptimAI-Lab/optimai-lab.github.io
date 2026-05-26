@@ -3,7 +3,7 @@ layout: page
 title: Leak@k
 slug: leak-k
 description: A meta-metric evaluation framework to evaluate robustness of LLM unlearning
-img: assets/img/Leak-k.jpg
+img: assets/img/projects/Leak-k.jpg
 importance: 0
 category: research
 redirect: https://github.com/OptimAI-Lab/Leak-k

@@ -2,7 +2,7 @@
 layout: page
 title: Federated Learning
 description: Distributed and federated learning algorithms for heterogeneous data
-img: assets/img/HybridFL.png
+img: assets/img/projects/HybridFL.png
 importance: 6
 category: research
 ---

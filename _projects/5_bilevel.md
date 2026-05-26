@@ -2,7 +2,7 @@
 layout: page
 title: Bilevel and Min-Max Optimization
 description: Theory and algorithms for bilevel and minimax optimization problems
-img: assets/img/minmax.png
+img: assets/img/projects/minmax.png
 importance: 5
 category: research
 ---

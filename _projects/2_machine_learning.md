@@ -2,7 +2,7 @@
 layout: page
 title: Machine Learning
 description: Optimization approaches for machine learning problems
-img: assets/img/ml.png
+img: assets/img/projects/ml.png
 importance: 2
 category: research
 ---

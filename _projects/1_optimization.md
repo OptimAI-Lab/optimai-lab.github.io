@@ -3,7 +3,7 @@ layout: page
 title: Large-Scale Optimization
 slug: optimization
 description: Design and analysis of modern optimization algorithms for large-scale problems
-img: assets/img/optimization.png
+img: assets/img/projects/optimization.png
 importance: 1
 category: research
 ---
