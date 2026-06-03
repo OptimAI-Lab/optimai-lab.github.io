@@ -42,6 +42,17 @@ nav_order: 5
 <h2 class="section-title">Postdoctoral Fellows</h2>
 
 <div class="row row-cols-2 row-cols-md-3" style="margin-top: 20px;">
+
+<div class="col mb-4">
+<div class="card">
+<img src="{{ '/assets/img/people/Oscar.JPG' | relative_url }}" class="card-img-top" alt="NAME" style="height: 220px; object-fit: cover; object-position: top;">
+<div class="card-body">
+<h5 class="card-title"><a href="https://oscaryau525.github.io/">Chung-Yiu Yau</a></h5>
+<p class="card-text">Postdoctoral Fellow</p>
+</div>
+</div>
+</div>
+
 <div class="col mb-4">
 <div class="card">
 <img src="{{ '/assets/img/people/Jiaxiang.png' | relative_url }}" class="card-img-top" alt="Jiaxiang Li" style="height: 220px; object-fit: cover; object-position: top;">
