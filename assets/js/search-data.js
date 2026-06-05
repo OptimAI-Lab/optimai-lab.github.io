@@ -717,6 +717,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-05-bilevel-regularity/";
+            },},{id: "projects-ema-nesterov",
+          title: 'EMA-Nesterov',
+          description: "Nesterov&#39;s acceleration as an optimizer plugin.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/-1_ema-nesterov/";
             },},{id: "projects-leak-k",
           title: 'Leak@k',
           description: "A meta-metric evaluation framework to evaluate robustness of LLM unlearning",
