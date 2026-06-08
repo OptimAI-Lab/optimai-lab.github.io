@@ -719,7 +719,7 @@ ninja.data = [{
               window.location.href = "/news/2026-05-bilevel-regularity/";
             },},{id: "projects-ema-nesterov",
           title: 'EMA-Nesterov',
-          description: "Nesterov&#39;s acceleration as an optimizer plugin.",
+          description: "Nesterov&#39;s acceleration as an optimizer plugin. EMA-Nesterov applies low-pass filtered lookahead before each optimization step to accelerate convergence.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/-1_ema-nesterov/";
             },},{id: "projects-scale-optimizer",
