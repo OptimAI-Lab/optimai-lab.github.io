@@ -16,7 +16,7 @@ announcements:
 
 sampled_projects:
   enabled: true
-  projects: [ema-nesterov, leak-k, optimization] # multiagent
+  projects: [ema-nesterov, minimalist, leak-k] # multiagent
   show_more_link: true
 
 latest_posts:
