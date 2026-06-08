@@ -722,6 +722,11 @@ ninja.data = [{
           description: "Nesterov&#39;s acceleration as an optimizer plugin.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/-1_ema-nesterov/";
+            },},{id: "projects-scale-optimizer",
+          title: 'SCALE Optimizer',
+          description: "A memory-efficient LLM pretraining optimizer following a minimalist design.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/-2_minimalist/";
             },},{id: "projects-leak-k",
           title: 'Leak@k',
           description: "A meta-metric evaluation framework to evaluate robustness of LLM unlearning",
