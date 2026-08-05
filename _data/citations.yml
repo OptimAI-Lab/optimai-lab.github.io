@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-05'
 papers:
   qRnP-p0AAAAJ:-7ulzOJl1JYC:
     citations: 11
@@ -30,7 +30,7 @@ papers:
     title: 'LUME: LLM Unlearning with Multitask Evaluations.'
     year: '2025'
   qRnP-p0AAAAJ:08ZZubdj9fEC:
-    citations: 559
+    citations: 561
     title: 'A unified algorithmic framework for block-structured optimization involving big data: With applications in machine learning and signal processing'
     year: '2015'
   qRnP-p0AAAAJ:0EnyYjriUFMC:
@@ -106,7 +106,7 @@ papers:
     title: Joint model selection and parameter estimation by population Monte Carlo simulation
     year: '2010'
   qRnP-p0AAAAJ:2tRrZ1ZAMYUC:
-    citations: 369
+    citations: 370
     title: 'FedBCD: A communication-efficient collaborative learning framework for distributed features'
     year: '2022'
   qRnP-p0AAAAJ:2ywjKiB__4kC:
@@ -122,7 +122,7 @@ papers:
     title: 'EMC : Efficient MCMC Negative Sampling for Contrastive Learning with Global Convergence'
     year: '2024'
   qRnP-p0AAAAJ:3bvyWxjaHKcC:
-    citations: 41
+    citations: 43
     title: Inference-Time Alignment of Diffusion Models with Direct Noise Optimization
     year: '2024'
   qRnP-p0AAAAJ:3fE2CSJIrl8C:
@@ -162,7 +162,7 @@ papers:
     title: 'Building large machine learning models from small distributed models: A layer matching approach'
     year: '2022'
   qRnP-p0AAAAJ:5MTHONV0fEkC:
-    citations: 167
+    citations: 169
     title: 'Understanding clipping for federated learning: Convergence and client-level differential privacy'
     year: '2022'
   qRnP-p0AAAAJ:5Ul4iDaHHb8C:
@@ -174,7 +174,7 @@ papers:
     title: A distributed algorithm for dictionary learning over networks
     year: '2016'
   qRnP-p0AAAAJ:5bg8sr1QxYwC:
-    citations: 26
+    citations: 27
     title: An outlook on the opportunities and challenges of multi-agent ai systems
     year: '2025'
   qRnP-p0AAAAJ:5icHVeHT4IsC:
@@ -450,11 +450,11 @@ papers:
     title: A gentle introduction to admm for statistical problems
     year: '2014'
   qRnP-p0AAAAJ:HhcuHIWmDEUC:
-    citations: 126
+    citations: 127
     title: Do LLMs Recognize Your Preferences? Evaluating Personalized Preference Following in LLMs
     year: '2025'
   qRnP-p0AAAAJ:HtS1dXgVpQUC:
-    citations: 169
+    citations: 170
     title: On lower iteration complexity bounds for the convex concave saddle point problems
     year: '2022'
   qRnP-p0AAAAJ:ILKRHgRFtOwC:
@@ -494,7 +494,7 @@ papers:
     title: 'Joint downlink base station association and power control for max-min fairness: Computation and complexity'
     year: '2015'
   qRnP-p0AAAAJ:KNjnJ3z-R6IC:
-    citations: 85
+    citations: 86
     title: 'Towards LLM Unlearning Resilient to Relearning Attacks: A Sharpness-Aware Minimization Perspective and Beyond'
     year: '2025'
   qRnP-p0AAAAJ:KUbvn5osdkgC:
@@ -558,7 +558,7 @@ papers:
     title: 'Improving the sample and communication complexity for decentralized non-convex optimization: Joint gradient estimation and tracking'
     year: '2020'
   qRnP-p0AAAAJ:MXK_kJrjxJIC:
-    citations: 1616
+    citations: 1619
     title: A unified convergence analysis of block successive minimization methods for nonsmooth optimization
     year: '2013'
   qRnP-p0AAAAJ:MhiOAD_qIWkC:
@@ -606,7 +606,7 @@ papers:
     title: Guest editorial advanced optimization theory and algorithms for next-generation wireless communication networks
     year: '2024'
   qRnP-p0AAAAJ:OR75R8vi5nAC:
-    citations: 96
+    citations: 97
     title: 'STEM: A Stochastic Two-Sided Momentum Algorithm Achieving Near-Optimal Sample and Communication Complexities for Federated Learning'
     year: '2021'
   qRnP-p0AAAAJ:OTTXONDVkokC:
@@ -614,7 +614,7 @@ papers:
     title: RMSprop converges with proper hyper-parameter
     year: '2021'
   qRnP-p0AAAAJ:PELIpwtuRlgC:
-    citations: 80
+    citations: 81
     title: Distributed controllers seeking AC optimal power flow solutions using ADMM
     year: '2017'
   qRnP-p0AAAAJ:PR6Y55bgFSsC:
@@ -726,7 +726,7 @@ papers:
     title: Distributed linear precoder optimization and base station selection for an uplink heterogeneous network
     year: '2013'
   qRnP-p0AAAAJ:U4n9YNQMCAIC:
-    citations: 32
+    citations: 33
     title: 'Optimal solutions for joint beamforming and antenna selection: From branch and bound to graph neural imitation learning'
     year: '2023'
   qRnP-p0AAAAJ:U_HPUtbDl20C:
@@ -866,7 +866,7 @@ papers:
     title: Spectral efficiency optimization for millimeter wave multiuser MIMO systems
     year: '2018'
   qRnP-p0AAAAJ:_axFR9aDTf0C:
-    citations: 341
+    citations: 343
     title: 'Understanding gradient clipping in private sgd: A geometric perspective'
     year: '2020'
   qRnP-p0AAAAJ:_xSYboBqXhAC:
@@ -914,7 +914,7 @@ papers:
     title: 'A BLOCK COORDINATE DESCENT METHOD OF MULTIPLIERS: CONVERGENCE ANALYSIS AND APPLICATIONS'
     year: '2014'
   qRnP-p0AAAAJ:bnK-pcrLprsC:
-    citations: 1385
+    citations: 1389
     title: 'Towards k-means-friendly spaces: Simultaneous deep learning and clustering'
     year: '2017'
   qRnP-p0AAAAJ:buQ7SEKw-1sC:
@@ -926,7 +926,7 @@ papers:
     title: Joint channel assignment and power allocation for Multi-UAVs communication systems
     year: '2020'
   qRnP-p0AAAAJ:cFHS6HbyZ2cC:
-    citations: 587
+    citations: 588
     title: Multi-agent distributed optimization via inexact consensus ADMM
     year: '2015'
   qRnP-p0AAAAJ:ce2CqMG-AY4C:
@@ -1062,7 +1062,7 @@ papers:
     title: A block successive upper bound minimization method of multipliers for linearly constrained convex optimization
     year: '2018'
   qRnP-p0AAAAJ:isU91gLudPYC:
-    citations: 0
+    citations: 1
     title: 'Aligning Large Language Models With Human Feedback: Mathematical foundations and algorithm design [Special Issue on the Mathematics of Deep Learning]'
     year: '2026'
   qRnP-p0AAAAJ:jFemdcug13IC:
@@ -1170,7 +1170,7 @@ papers:
     title: 'Reinforcement learning in inference time: A perspective from successive policy iterations'
     year: '2025'
   qRnP-p0AAAAJ:olpn-zPbct0C:
-    citations: 1406
+    citations: 1409
     title: 'Learning to optimize: Training deep neural networks for interference management'
     year: '2018'
   qRnP-p0AAAAJ:otzGkya1bYkC:
@@ -1190,7 +1190,7 @@ papers:
     title: A note on the convergence of muon
     year: '2025'
   qRnP-p0AAAAJ:p__nRnzSRKYC:
-    citations: 96
+    citations: 98
     title: 'Distributed training with heterogeneous data: Bridging median-and mean-based algorithms'
     year: '2020'
   qRnP-p0AAAAJ:pqnbT2bcN3wC:
@@ -1206,7 +1206,7 @@ papers:
     title: 'Combining sparse NMF with deep neural network: A new classification-based approach for speech enhancement'
     year: '2015'
   qRnP-p0AAAAJ:q-HalDI95KYC:
-    citations: 218
+    citations: 219
     title: A survey of recent advances in optimization methods for wireless communications
     year: '2024'
   qRnP-p0AAAAJ:q3oQSFYPqjQC:
@@ -1234,11 +1234,11 @@ papers:
     title: Joint demonstration and preference learning improves policy alignment with human feedback
     year: '2024'
   qRnP-p0AAAAJ:rTD5ala9j4wC:
-    citations: 5
+    citations: 6
     title: Safeguarding text-to-image generation via inference-time prompt-noise optimization
     year: '2024'
   qRnP-p0AAAAJ:r_AWSJRzSzQC:
-    citations: 429
+    citations: 430
     title: 'FedPD: A federated learning framework with adaptivity to non-IID data'
     year: '2021'
   qRnP-p0AAAAJ:roLk4NBRz8UC:
@@ -1250,7 +1250,7 @@ papers:
     title: 'Multi-user adaptive video delivery over wireless networks: A physical layer resource-aware deep reinforcement learning approach'
     year: '2020'
   qRnP-p0AAAAJ:sA9dB-pw3HoC:
-    citations: 103
+    citations: 104
     title: Reinforcing multi-turn reasoning in llm agents via turn-level reward design
     year: '2025'
   qRnP-p0AAAAJ:sNmaIFBj_lkC:
@@ -1294,7 +1294,7 @@ papers:
     title: 'Zo-adamm: Zeroth-order adaptive momentum method for black-box optimization'
     year: '2019'
   qRnP-p0AAAAJ:tzM49s52ZIMC:
-    citations: 44
+    citations: 45
     title: Anchor-free correlated topic modeling
     year: '2018'
   qRnP-p0AAAAJ:u-x6o8ySG0sC:
