@@ -14,7 +14,7 @@ nav_order: 5
   </div>
   <div class="pi-info">
     <h3>Mingyi Hong</h3>
-    <p class="pi-title">Associate Professor</p>
+    <p class="pi-title">Professor</p>
     <p class="pi-affiliation">
       <a href="https://cse.umn.edu/ece" target="_blank">Department of Electrical and Computer Engineering</a><br>
       <a href="https://twin-cities.umn.edu/" target="_blank">University of Minnesota</a>
