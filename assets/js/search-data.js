@@ -697,6 +697,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-03-blur-eacl/";
+            },},{id: "news-2026-03-berkeley-talk",
+          title: '2026 03 Berkeley Talk',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-03-berkeley-talk/";
             },},{id: "news-2026-05-icml-accepted",
           title: '2026 05 Icml Accepted',
           description: "",
