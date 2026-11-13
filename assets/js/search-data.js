@@ -37,7 +37,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "news-2013-02-hetnet-paper",
+        },{id: "nav-blog",
+          title: "Blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
+        },{id: "blogs-leak-k",
+          title: 'Leak@k',
+          description: "A meta-metric evaluation framework to evaluate robustness of LLM unlearning",
+          section: "Blogs",handler: () => {
+              window.location.href = "/blogs/2026-03_leak-k/";
+            },},{id: "news-2013-02-hetnet-paper",
           title: '2013 02 Hetnet Paper',
           description: "",
           section: "News",handler: () => {
