@@ -594,11 +594,10 @@ ul.task-list input[type="checkbox"] {
     margin: 20px 0;
   }
 
-  // Uniform portrait photos; per-photo object-position keeps each face centred
+  // Show each photo in full (no cropping), same as the PI photo
   .person-photo {
     width: 100%;
-    aspect-ratio: 4 / 5;
-    object-fit: cover;
+    height: auto;
   }
 
   .card {

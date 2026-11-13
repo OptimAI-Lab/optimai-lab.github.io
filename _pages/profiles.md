@@ -45,7 +45,7 @@ nav_order: 5
 
 <div class="col mb-4">
 <div class="card">
-<img src="{{ '/assets/img/people/Oscar.JPG' | relative_url }}" class="card-img-top person-photo" alt="NAME" style="object-position: 40% 50%;">
+<img src="{{ '/assets/img/people/Oscar.JPG' | relative_url }}" class="card-img-top person-photo" alt="NAME">
 <div class="card-body">
 <h5 class="card-title"><a href="https://oscaryau525.github.io/">Chung-Yiu Yau</a></h5>
 <p class="card-text">Postdoctoral Fellow</p>
@@ -55,7 +55,7 @@ nav_order: 5
 
 <div class="col mb-4">
 <div class="card">
-<img src="{{ '/assets/img/people/Jiaxiang.png' | relative_url }}" class="card-img-top person-photo" alt="Jiaxiang Li" style="object-position: 41% 50%;">
+<img src="{{ '/assets/img/people/Jiaxiang.png' | relative_url }}" class="card-img-top person-photo" alt="Jiaxiang Li">
 <div class="card-body">
 <h5 class="card-title"><a href="https://jasonjiaxiangli.github.io/">Jiaxiang Li</a></h5>
 <p class="card-text">Postdoctoral Fellow</p>
@@ -64,7 +64,7 @@ nav_order: 5
 </div>
 <div class="col mb-4">
 <div class="card">
-<img src="{{ '/assets/img/people/Ioannis Tsaknakis.jpg' | relative_url }}" class="card-img-top person-photo" alt="Ioannis Tsaknakis" style="object-position: 50% 50%;">
+<img src="{{ '/assets/img/people/Ioannis Tsaknakis.jpg' | relative_url }}" class="card-img-top person-photo" alt="Ioannis Tsaknakis">
 <div class="card-body">
 <h5 class="card-title">Ioannis Tsaknakis</h5>
 <p class="card-text">Postdoctoral Fellow</p>
@@ -73,7 +73,7 @@ nav_order: 5
 </div>
 <div class="col mb-4">
 <div class="card">
-<img src="{{ '/assets/img/people/Hadi.jpeg' | relative_url }}" class="card-img-top person-photo" alt="Hadi Reisizadeh" style="object-position: 40% 50%;">
+<img src="{{ '/assets/img/people/Hadi.jpeg' | relative_url }}" class="card-img-top person-photo" alt="Hadi Reisizadeh">
 <div class="card-body">
 <h5 class="card-title"><a href="https://www.linkedin.com/in/hadi-reisizadeh-8727429b/">Hadi Reisizadeh</a></h5>
 <p class="card-text">Postdoctoral Fellow</p>
@@ -87,7 +87,7 @@ nav_order: 5
 <div class="row row-cols-2 row-cols-md-3" style="margin-top: 20px;">
 <div class="col mb-4">
 <div class="card">
-<img src="{{ '/assets/img/people/Quan.jpeg' | relative_url }}" class="card-img-top person-photo" alt="Quan Wei" style="object-position: 50% 0%;">
+<img src="{{ '/assets/img/people/Quan.jpeg' | relative_url }}" class="card-img-top person-photo" alt="Quan Wei">
 <div class="card-body">
 <h5 class="card-title">Quan Wei</h5>
 <p class="card-text">LLM Quantization, Agent</p>
@@ -96,7 +96,7 @@ nav_order: 5
 </div>
 <div class="col mb-4">
 <div class="card">
-<img src="{{ '/assets/img/people/Xinnan.jpg' | relative_url }}" class="card-img-top person-photo" alt="Xinnan Zhang" style="object-position: 59% 50%;">
+<img src="{{ '/assets/img/people/Xinnan.jpg' | relative_url }}" class="card-img-top person-photo" alt="Xinnan Zhang">
 <div class="card-body">
 <h5 class="card-title">Xinnan Zhang</h5>
 <p class="card-text">LLM Alignment, Reinforcement Learning</p>
@@ -105,7 +105,7 @@ nav_order: 5
 </div>
 <div class="col mb-4">
 <div class="card">
-<img src="{{ '/assets/img/people/jon.jpeg' | relative_url }}" class="card-img-top person-photo" alt="Jon Peng" style="object-position: 50% 0%;">
+<img src="{{ '/assets/img/people/jon.jpeg' | relative_url }}" class="card-img-top person-photo" alt="Jon Peng">
 <div class="card-body">
 <h5 class="card-title">Jon Peng</h5>
 <p class="card-text">Diffusion models</p>
@@ -114,7 +114,7 @@ nav_order: 5
 </div>
 <div class="col mb-4">
 <div class="card">
-<img src="{{ '/assets/img/people/Xiaotian.png' | relative_url }}" class="card-img-top person-photo" alt="Xiaotian Jiang" style="object-position: 50% 50%;">
+<img src="{{ '/assets/img/people/Xiaotian.png' | relative_url }}" class="card-img-top person-photo" alt="Xiaotian Jiang">
 <div class="card-body">
 <h5 class="card-title">Xiaotian Jiang</h5>
 <p class="card-text">Bilevel Optimization</p>
@@ -123,7 +123,7 @@ nav_order: 5
 </div>
 <div class="col mb-4">
 <div class="card">
-<img src="{{ '/assets/img/people/Bingqing.jpg' | relative_url }}" class="card-img-top person-photo" alt="Bingqing Song" style="object-position: 50% 50%;">
+<img src="{{ '/assets/img/people/Bingqing.jpg' | relative_url }}" class="card-img-top person-photo" alt="Bingqing Song">
 <div class="card-body">
 <h5 class="card-title">Bingqing Song</h5>
 <p class="card-text">Statistical Learning, ML for Communication</p>
@@ -132,7 +132,7 @@ nav_order: 5
 </div>
 <div class="col mb-4">
 <div class="card">
-<img src="{{ '/assets/img/people/Siliang.jpeg' | relative_url }}" class="card-img-top person-photo" alt="Siliang Zeng" style="object-position: 50% 50%;">
+<img src="{{ '/assets/img/people/Siliang.jpeg' | relative_url }}" class="card-img-top person-photo" alt="Siliang Zeng">
 <div class="card-body">
 <h5 class="card-title"><a href="https://scholar.google.com/citations?user=IfqsDyYAAAAJ&hl=en">Siliang Zeng</a></h5>
 <p class="card-text">Reinforcement Learning, LLMs, Alignment</p>
@@ -155,7 +155,7 @@ nav_order: 5
 <div class="row row-cols-2 row-cols-md-3" style="margin-top: 20px;">
 <div class="col mb-4">
 <div class="card">
-<img src="{{ '/assets/img/people/Xinwei.jpg' | relative_url }}" class="card-img-top person-photo" alt="Xinwei Zhang" style="object-position: 50% 0%;">
+<img src="{{ '/assets/img/people/Xinwei.jpg' | relative_url }}" class="card-img-top person-photo" alt="Xinwei Zhang">
 <div class="card-body">
 <h5 class="card-title"><a href="https://scholar.google.com/citations?user=uq46meMAAAAJ&hl=zh-CN">Xinwei Zhang</a></h5>
 <p class="card-text">Postdoctoral Fellow at USC</p>
@@ -164,7 +164,7 @@ nav_order: 5
 </div>
 <div class="col mb-4">
 <div class="card">
-<img src="{{ '/assets/img/people/haoran.jpg' | relative_url }}" class="card-img-top person-photo" alt="Haoran Sun" style="object-position: 50% 50%;">
+<img src="{{ '/assets/img/people/haoran.jpg' | relative_url }}" class="card-img-top person-photo" alt="Haoran Sun">
 <div class="card-body">
 <h5 class="card-title"><a href="https://haoran-s.github.io">Haoran Sun</a></h5>
 <p class="card-text">Meta</p>
@@ -173,7 +173,7 @@ nav_order: 5
 </div>
 <div class="col mb-4">
 <div class="card">
-<img src="{{ '/assets/img/people/prashant.jpeg' | relative_url }}" class="card-img-top person-photo" alt="Prashant Kanduri" style="object-position: 50% 50%;">
+<img src="{{ '/assets/img/people/prashant.jpeg' | relative_url }}" class="card-img-top person-photo" alt="Prashant Kanduri">
 <div class="card-body">
 <h5 class="card-title"><a href="https://sites.google.com/view/khanduri-prashant/home">Prashant Kanduri</a></h5>
 <p class="card-text">Assistant Professor at Wayne State University</p>
@@ -182,7 +182,7 @@ nav_order: 5
 </div>
 <div class="col mb-4">
 <div class="card">
-<img src="{{ '/assets/img/people/xiangyi.jpg' | relative_url }}" class="card-img-top person-photo" alt="Xiangyi Chen" style="object-position: 50% 50%;">
+<img src="{{ '/assets/img/people/xiangyi.jpg' | relative_url }}" class="card-img-top person-photo" alt="Xiangyi Chen">
 <div class="card-body">
 <h5 class="card-title"><a href="https://scholar.google.com/citations?user=M0ki5ZgAAAAJ&hl=en">Xiangyi Chen</a></h5>
 <p class="card-text">Pinterest</p>
@@ -191,7 +191,7 @@ nav_order: 5
 </div>
 <div class="col mb-4">
 <div class="card">
-<img src="{{ '/assets/img/people/songtao.jpeg' | relative_url }}" class="card-img-top person-photo" alt="Songtao Lu" style="object-position: 50% 0%;">
+<img src="{{ '/assets/img/people/songtao.jpeg' | relative_url }}" class="card-img-top person-photo" alt="Songtao Lu">
 <div class="card-body">
 <h5 class="card-title"><a href="https://songtaogithub.github.io/">Dr. Songtao Lu</a></h5>
 <p class="card-text">Assistant Professor at CUHK</p>
@@ -200,7 +200,7 @@ nav_order: 5
 </div>
 <div class="col mb-4">
 <div class="card">
-<img src="{{ '/assets/img/people/Qingjiang_Shi.png' | relative_url }}" class="card-img-top person-photo" alt="Qingjiang Shi" style="object-position: 50% 0%;">
+<img src="{{ '/assets/img/people/Qingjiang_Shi.png' | relative_url }}" class="card-img-top person-photo" alt="Qingjiang Shi">
 <div class="card-body">
 <h5 class="card-title"><a href="http://sse.tongji.edu.cn/Data/View/3555">Qingjiang Shi</a></h5>
 <p class="card-text">Professor at Tongji University</p>
@@ -209,7 +209,7 @@ nav_order: 5
 </div>
 <div class="col mb-4">
 <div class="card">
-<img src="{{ '/assets/img/people/davood_face.jpg' | relative_url }}" class="card-img-top person-photo" alt="Davood Hajinezhad" style="object-position: 50% 50%;">
+<img src="{{ '/assets/img/people/davood_face.jpg' | relative_url }}" class="card-img-top person-photo" alt="Davood Hajinezhad">
 <div class="card-body">
 <h5 class="card-title"><a href="https://sites.duke.edu/dhaji/">Davood Hajinezhad</a></h5>
 <p class="card-text">Research Scientist at Fidelity</p>
@@ -218,7 +218,7 @@ nav_order: 5
 </div>
 <div class="col mb-4">
 <div class="card">
-<img src="{{ '/assets/img/people/ziping.jpg' | relative_url }}" class="card-img-top person-photo" alt="Ziping Zhao" style="object-position: 50% 50%;">
+<img src="{{ '/assets/img/people/ziping.jpg' | relative_url }}" class="card-img-top person-photo" alt="Ziping Zhao">
 <div class="card-body">
 <h5 class="card-title"><a href="http://sist.shanghaitech.edu.cn/sist_en/2018/0820/c3846a48601/page.htm">Ziping Zhao</a></h5>
 <p class="card-text">Assistant Professor at Shanghai Tech</p>
@@ -227,7 +227,7 @@ nav_order: 5
 </div>
 <div class="col mb-4">
 <div class="card">
-<img src="{{ '/assets/img/people/yijian.jpg' | relative_url }}" class="card-img-top person-photo" alt="Yijian Zhang" style="object-position: 50% 50%;">
+<img src="{{ '/assets/img/people/yijian.jpg' | relative_url }}" class="card-img-top person-photo" alt="Yijian Zhang">
 <div class="card-body">
 <h5 class="card-title">Yijian Zhang</h5>
 <p class="card-text">Data Scientist at Gap Corp.</p>
@@ -236,7 +236,7 @@ nav_order: 5
 </div>
 <div class="col mb-4">
 <div class="card">
-<img src="{{ '/assets/img/people/Mostafa.jpg' | relative_url }}" class="card-img-top person-photo" alt="Mostafa Amin-Naseri" style="object-position: 50% 50%;">
+<img src="{{ '/assets/img/people/Mostafa.jpg' | relative_url }}" class="card-img-top person-photo" alt="Mostafa Amin-Naseri">
 <div class="card-body">
 <h5 class="card-title">Mostafa Amin-Naseri</h5>
 <p class="card-text">Joint supervised with Stephen Gilbert</p>
@@ -245,7 +245,7 @@ nav_order: 5
 </div>
 <div class="col mb-4">
 <div class="card">
-<img src="{{ '/assets/img/people/Fristo.jpg' | relative_url }}" class="card-img-top person-photo" alt="Andre Fristo" style="object-position: 100% 50%;">
+<img src="{{ '/assets/img/people/Fristo.jpg' | relative_url }}" class="card-img-top person-photo" alt="Andre Fristo">
 <div class="card-body">
 <h5 class="card-title">Andre Fristo</h5>
 <p class="card-text">Former Researcher</p>
@@ -254,7 +254,7 @@ nav_order: 5
 </div>
 <div class="col mb-4">
 <div class="card">
-<img src="{{ '/assets/img/people/Grimm.png' | relative_url }}" class="card-img-top person-photo" alt="Chase Grimm" style="object-position: 50% 0%;">
+<img src="{{ '/assets/img/people/Grimm.png' | relative_url }}" class="card-img-top person-photo" alt="Chase Grimm">
 <div class="card-body">
 <h5 class="card-title">Chase Grimm</h5>
 <p class="card-text">Former Researcher</p>
