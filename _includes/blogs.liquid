@@ -1,0 +1,23 @@
+<div class="col">
+  <a href="{{ blog.redirect }}" target="_blank" rel="noopener">
+    <div class="card h-100 hoverable blog-card">
+      {% if blog.blog_date %}
+        <span class="blog-date">{{ blog.blog_date }}</span>
+      {% endif %}
+      {% if blog.img %}
+        {%
+          include figure.liquid
+          loading="eager"
+          path=blog.img
+          sizes = "250px"
+          alt="blog thumbnail"
+          class="card-img-top"
+        %}
+      {% endif %}
+      <div class="card-body">
+        <h3 class="card-title">{{ blog.title }}</h3>
+        <p class="card-text">{{ blog.description }}</p>
+      </div>
+    </div>
+  </a>
+</div>

@@ -102,6 +102,29 @@ git push
 
 ---
 
+### Blog
+
+**What you can update:** Blog cards (same look as Projects, with a date in the top-left corner)
+
+**Files:** `_blogs/` (one `.md` per blog) and `assets/img/blogs/` (thumbnails)
+
+**To add a blog:**
+1. Put the thumbnail in `assets/img/blogs/` (e.g. `my-blog.jpg`)
+2. Create `_blogs/YYYY-MM_short-name.md` with only this front matter:
+   ```yaml
+   ---
+   layout: page
+   title: Blog Title
+   description: One-line summary
+   img: assets/img/blogs/my-blog.jpg
+   blog_date: "2026-05"        # shown on the card; used for ordering (newest first)
+   redirect: https://link-to-the-blog   # clicking the card opens this URL
+   ---
+   ```
+3. Commit and push. The Blog page sorts cards by `blog_date` automatically.
+
+---
+
 ### People
 
 **What you can update:** Team members, profile photos, roles
@@ -147,6 +170,7 @@ optimai-lab.github.io/
 │   └── activity.md       # Activities page (manual)
 ├── _news/                # News posts (one file per post)
 ├── _projects/            # Project cards (one file per project)
+├── _blogs/               # Blog cards (one file per blog)
 ├── _data/                # YAML data files (navigation, CV data)
 ├── _includes/            # Reusable Liquid templates
 ├── _layouts/             # Page layouts
@@ -156,6 +180,7 @@ optimai-lab.github.io/
 │   │   ├── people/       # Profile photos
 │   │   ├── activities/  # Activity/group photos
 │   │   ├── projects/     # Project thumbnails
+│   │   ├── blogs/        # Blog thumbnails
 │   │   ├── news/         # News images
 │   │   └── home/         # Banner image
 │   └── js/               # JavaScript files
@@ -170,6 +195,7 @@ optimai-lab.github.io/
 | Update home page | `_pages/about.md` |
 | Add news post | `_news/YYYY-MM-DD-title.md` |
 | Add project | `_projects/project-name.md` |
+| Add blog | `_blogs/YYYY-MM_name.md`, `assets/img/blogs/` |
 | Add team member | `_pages/profiles.md`, `assets/img/people/` |
 | Add activity photos | `_pages/activity.md`, `assets/img/activities/` |
 | Change site title/url | `_config.yml` |
