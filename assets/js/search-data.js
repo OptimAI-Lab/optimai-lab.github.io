@@ -749,6 +749,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-09-neurips-accepted/";
+            },},{id: "news-2026-09-uva-talk",
+          title: '2026 09 Uva Talk',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-09-uva-talk/";
             },},{id: "news-2026-10-muongs",
           title: '2026 10 Muongs',
           description: "",
