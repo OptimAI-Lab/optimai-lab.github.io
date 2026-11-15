@@ -734,6 +734,36 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-05-bilevel-regularity/";
+            },},{id: "news-2026-07-single-layer-rl",
+          title: '2026 07 Single Layer Rl',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-07-single-layer-rl/";
+            },},{id: "news-2026-07-molecule-design",
+          title: '2026 07 Molecule Design',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-07-molecule-design/";
+            },},{id: "news-2026-09-neurips-accepted",
+          title: '2026 09 Neurips Accepted',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-09-neurips-accepted/";
+            },},{id: "news-2026-10-muongs",
+          title: '2026 10 Muongs',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-10-muongs/";
+            },},{id: "news-2026-11-optimization-ai-forum",
+          title: '2026 11 Optimization Ai Forum',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-11-optimization-ai-forum/";
+            },},{id: "news-2026-11-autoscaffold",
+          title: '2026 11 Autoscaffold',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-11-autoscaffold/";
             },},{id: "projects-ema-nesterov",
           title: 'EMA-Nesterov',
           description: "Nesterov&#39;s acceleration as an optimizer plugin. EMA-Nesterov applies low-pass filtered lookahead before each optimization step to accelerate convergence.",
