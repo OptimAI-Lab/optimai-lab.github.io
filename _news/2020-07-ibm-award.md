@@ -5,4 +5,4 @@ inline: false
 related_posts: false
 ---
 
-Mingyi Hong receives the [2020 IBM Academic Research Award](https://www.research.ibm.com/university/awards/university-awards-recipients.html).
+Mingyi Hong receives the [2020 IBM Academic Research Award](https://web.archive.org/web/20250623231158/https://research.ibm.com/university/awards/university-awards-recipients.html).
