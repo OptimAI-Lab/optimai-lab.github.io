@@ -744,6 +744,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-07-molecule-design/";
+            },},{id: "news-2026-09-cisco-grant",
+          title: '2026 09 Cisco Grant',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-09-cisco-grant/";
             },},{id: "news-2026-09-neurips-accepted",
           title: '2026 09 Neurips Accepted',
           description: "",
