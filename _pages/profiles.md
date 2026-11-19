@@ -148,6 +148,15 @@ nav_order: 5
 </div>
 </div>
 </div>
+<div class="col mb-4">
+<div class="card">
+<img src="{{ '/assets/img/people/Zijian_Zhang.jpg' | relative_url }}" class="card-img-top person-photo" alt="Zijian Zhang">
+<div class="card-body">
+<h5 class="card-title"><a href="https://zzj1111.github.io/">Zijian Zhang</a></h5>
+<p class="card-text">Self-improving LLM Agents, RL</p>
+</div>
+</div>
+</div>
 </div>
 
 <h2 class="section-title">Alumni</h2>
