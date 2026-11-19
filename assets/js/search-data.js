@@ -49,6 +49,11 @@ ninja.data = [{
           description: "A meta-metric evaluation framework to evaluate robustness of LLM unlearning",
           section: "Blogs",handler: () => {
               window.location.href = "/blogs/2026-03_leak-k/";
+            },},{id: "blogs-autoscaffold",
+          title: 'AutoScaffold',
+          description: "A teacher LLM turns a student&#39;s RL training experience into adaptive scaffolds",
+          section: "Blogs",handler: () => {
+              window.location.href = "/blogs/2026-11_autoscaffold/";
             },},{id: "blogs-is-one-layer-enough",
           title: 'Is One Layer Enough?',
           description: "Training a single transformer layer can match full-parameter RL training",
